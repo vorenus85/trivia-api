@@ -2,6 +2,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Who painted the Mona Lisa?",
@@ -26,6 +27,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the chemical symbol for gold?",
@@ -42,6 +44,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the smallest country in Europe?",
@@ -58,6 +61,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "In which city can you find the famous landmark, the Eiffel Tower?",
@@ -74,6 +78,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which language is primarily spoken in Brazil?",
@@ -90,6 +95,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the longest river in the world?",
@@ -106,6 +112,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which animal is known as the King of the Jungle?",
@@ -122,6 +129,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Who painted the ceiling of the Sistine Chapel?",
@@ -138,6 +146,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which planet is known as the Red Planet?",
@@ -154,6 +163,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the largest mammal in the world?",
@@ -170,6 +180,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which country is home to the Great Barrier Reef?",
@@ -186,6 +197,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the hardest natural substance on Earth?",
@@ -202,6 +214,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the capital of Australia?",
@@ -218,6 +231,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the square root of 144?",
@@ -234,6 +248,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which of these countries is not in Europe?",
@@ -250,6 +265,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which famous scientist developed the theory of relativity?",
@@ -266,6 +282,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the capital of Japan?",
@@ -282,6 +299,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What year did the Titanic sink on its maiden voyage?",
@@ -298,6 +316,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which famous structure was completed in 1889?",
@@ -322,6 +341,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "How many stars are there on the flag of the European Union?",
@@ -338,6 +358,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the term for a word or phrase that reads the same backward as forward?",
@@ -354,6 +375,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "In which country would you find the city of Timbuktu?",
@@ -370,6 +392,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "What is the national flower of Japan?",
@@ -386,6 +409,7 @@
   {
     "difficulty": "medium",
     "category": "General Knowledge",
+    "categoryId": 9,
     "translations": {
       "en": {
         "question": "Which country hosted the 2016 Summer Olympics?",

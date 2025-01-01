@@ -2,6 +2,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Hippocampus is the Latin name for which marine creature?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the fastest land animal?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal is known as the 'King of the Jungle'?",
@@ -50,6 +53,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the largest mammal on Earth?",
@@ -66,6 +70,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How many legs does a spider have?",
@@ -82,6 +87,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What do pandas mainly eat?",
@@ -98,6 +104,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the tallest land animal?",
@@ -114,6 +121,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What type of animal is a Komodo dragon?",
@@ -130,6 +138,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the main characteristic of mammals?",
@@ -154,6 +163,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird is known for mimicking sounds?",
@@ -170,6 +180,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What type of animal is a dolphin?",
@@ -187,6 +198,7 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How many legs do butterflies have?",
@@ -204,6 +216,7 @@
     "type": "multiple",
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the scientific name for modern day humans?",
@@ -228,6 +241,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the only mammal capable of true flight?",
@@ -244,6 +258,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What do bees collect and use to make honey?",
@@ -260,6 +275,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal is known for its ability to change color?",
@@ -276,6 +292,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the name of a baby cat?",
@@ -292,6 +309,7 @@
   {
     "difficulty": "easy",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird is a symbol of peace?",

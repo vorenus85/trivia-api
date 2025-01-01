@@ -2,6 +2,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "For which film role did Marlon Brando win an Oscar, which he declined?",
@@ -26,6 +27,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which film was the first to win 11 Academy Awards?",
@@ -50,6 +52,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which film features a character named Ahab hunting a giant white whale?",
@@ -66,6 +69,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who directed the film '2001: A Space Odyssey'?",
@@ -90,6 +94,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "In the TV series 'The Twilight Zone,' which actor starred in the episode 'Nightmare at 20,000 Feet'?",
@@ -106,6 +111,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What is the name of the fictional country in the movie 'Black Panther'?",
@@ -122,6 +128,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "In which 1994 film does the character Andy Dufresne escape from Shawshank prison?",
@@ -142,6 +149,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who composed the iconic score for 'Star Wars'?",
@@ -158,6 +166,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What 1995 film features a character named Edward Scissorhands?",
@@ -182,6 +191,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What 1979 film is considered the first true science fiction horror movie?",
@@ -198,6 +208,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which film director is known for using non-linear storylines, like in 'Pulp Fiction'?",
@@ -222,6 +233,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who portrayed the Joker in 'The Dark Knight'?",
@@ -238,6 +250,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which 1976 film starred Robert De Niro as a troubled Vietnam War veteran?",
@@ -254,6 +267,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What 1982 film is considered the first successful cyberpunk film?",
@@ -270,6 +284,7 @@
   {
     "difficulty": "hard",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which film won the first-ever Academy Award for Best Animated Feature in 2002?",

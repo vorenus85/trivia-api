@@ -2,6 +2,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the rarest naturally occurring element on Earth?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the name of the process by which a solid turns directly into a gas?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What element is used in nuclear reactors to produce energy by fission?",
@@ -50,6 +53,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the largest known star in the universe?",
@@ -66,6 +70,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the most stable isotope of carbon?",
@@ -82,6 +87,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the chemical symbol for the element with atomic number 93?",
@@ -98,6 +104,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the only planet in the solar system that rotates clockwise?",
@@ -114,6 +121,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the name of the mathematical constant used in calculating the circumference of a circle?",
@@ -130,6 +138,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the rarest blood type in the world?",
@@ -146,6 +155,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the coldest natural temperature ever recorded on Earth?",
@@ -162,6 +172,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the rarest naturally occurring isotope of uranium?",
@@ -178,6 +189,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the unit used to measure the frequency of a sound wave?",
@@ -194,6 +206,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the process by which plants convert light energy into chemical energy?",
@@ -210,6 +223,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the term for a material that allows electricity to flow through it easily?",
@@ -226,6 +240,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the name of the phenomenon in which the light is bent as it passes through a material?",
@@ -242,6 +257,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "Which mineral is the hardest on the Mohs scale of hardness?",
@@ -258,6 +274,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the term for the process of cell division that results in two identical daughter cells?",
@@ -274,6 +291,7 @@
   {
     "difficulty": "hard",
     "category": "Science & Nature",
+    "categoryId": 17,
     "translations": {
       "en": {
         "question": "What is the strongest type of electromagnetic wave?",

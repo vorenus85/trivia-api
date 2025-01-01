@@ -2,6 +2,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country won the 2016 UEFA European Championship?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Who holds the record for the most goals scored in the Premier League?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country has won the most Rugby World Cups?",
@@ -50,6 +53,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which year did Michael Phelps win 8 gold medals in a single Olympic Games?",
@@ -66,6 +70,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which tennis player is known as 'The King of Clay'?",
@@ -82,6 +87,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country won the first ever FIFA World Cup in 1930?",
@@ -98,6 +104,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which American football team won the most Super Bowls in the 1990s?",
@@ -122,6 +129,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport do teams compete for the Stanley Cup?",
@@ -138,6 +146,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Who is the all-time top scorer in NBA history?",
@@ -154,6 +163,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country is the birthplace of the sport of basketball?",
@@ -170,6 +180,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country won the 2014 FIFA World Cup?",
@@ -186,6 +197,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which Formula 1 driver won the most championships in the 2000s?",
@@ -210,6 +222,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which tennis player has the most Grand Slam singles titles in men's tennis?",
@@ -226,6 +239,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport would you perform a 'perfect 300'?",
@@ -242,6 +256,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country won the most gold medals at the 2008 Summer Olympics?",
@@ -258,6 +273,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which football team has the most UEFA Champions League titles?",
@@ -274,6 +290,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country did the 2016 Olympic Games take place in?",
@@ -290,6 +307,7 @@
   {
     "difficulty": "medium",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which city were the 2000 Summer Olympics held?",

@@ -2,6 +2,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Cashmere is the wool from which kind of animal?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How long can a cockroach live without its head?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which mammal has the longest gestation period?",
@@ -50,6 +53,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the largest species of shark?",
@@ -70,6 +74,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the scientific name of the Common Chimpanzee?",
@@ -86,6 +91,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What type of animal is a 'dugong'?",
@@ -102,6 +108,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How do frogs drink water?",
@@ -126,6 +133,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird is known for its elaborate mating dance?",
@@ -142,6 +150,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the primary purpose of a cat's whiskers?",
@@ -162,6 +171,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal can sleep for up to three years?",
@@ -178,6 +188,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the main food source for bats?",
@@ -194,6 +205,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal has the thickest fur in the animal kingdom?",
@@ -210,6 +222,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the average lifespan of a domestic cat?",
@@ -226,6 +239,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the largest living species of lizard?",
@@ -242,6 +256,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How many humps does a Bactrian camel have?",
@@ -258,6 +273,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the gestation period of an African elephant?",
@@ -274,6 +290,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the largest species of penguin?",
@@ -298,6 +315,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the average lifespan of a lion in the wild?",
@@ -314,6 +332,7 @@
   {
     "difficulty": "medium",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which mammal has the longest lifespan?",

@@ -2,6 +2,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the first President of the United States?",
@@ -26,6 +27,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "In which year did World War II begin?",
@@ -42,6 +44,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
@@ -58,6 +61,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the first human to step on the Moon?",
@@ -74,6 +78,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What wall fell in 1989, symbolizing the end of the Cold War?",
@@ -94,6 +99,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Which empire was ruled by Julius Caesar?",
@@ -118,6 +124,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who discovered America in 1492?",
@@ -142,6 +149,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What was the Titanic?",
@@ -158,6 +166,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the first female Prime Minister of the UK?",
@@ -174,6 +183,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What year was the Declaration of Independence signed?",
@@ -190,6 +200,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the leader of Germany during World War II?",
@@ -214,6 +225,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What country gifted the Statue of Liberty to the United States?",
@@ -234,6 +246,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What ancient civilization built the Pyramids of Giza?",
@@ -250,6 +263,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who discovered penicillin?",
@@ -266,6 +280,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Which Roman Emperor famously fiddled while Rome burned?",
@@ -282,6 +297,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who painted the ceiling of the Sistine Chapel?",
@@ -298,6 +314,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What was the name of the first successful English settlement in America?",
@@ -314,6 +331,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was known as the 'Iron Lady'?",
@@ -338,6 +356,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What city hosted the first modern Olympic Games in 1896?",
@@ -354,6 +373,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the first man to fly across the Atlantic Ocean solo?",
@@ -378,6 +398,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Which country was Nelson Mandela the president of?",
@@ -394,6 +415,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What year did the Titanic sink?",
@@ -410,6 +432,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Which ancient civilization invented writing?",
@@ -426,6 +449,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "Who was the British Prime Minister during most of World War II?",
@@ -450,6 +474,7 @@
   {
     "difficulty": "easy",
     "category": "History",
+    "categoryId": 23,
     "translations": {
       "en": {
         "question": "What is the name of the first artificial satellite sent into space?",

@@ -2,6 +2,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who directed the film 'Inception'?",
@@ -26,6 +27,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which actor played the role of Walter White in the TV series 'Breaking Bad'?",
@@ -42,6 +44,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which 2010 film is about a team of thieves who enter people’s dreams?",
@@ -58,6 +61,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who was the first actor to play James Bond in the film series?",
@@ -74,6 +78,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "In which TV series would you find the character Daenerys Targaryen?",
@@ -90,6 +95,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which movie features a group of survivors trying to survive after a zombie apocalypse?",
@@ -106,6 +112,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What 2008 movie features a superhero who gets his powers from a radioactive spider?",
@@ -130,6 +137,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "In the movie 'The Matrix,' what color is the pill that Neo takes to learn the truth?",
@@ -146,6 +154,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which character in the TV series 'Friends' famously said, 'How you doin'?'",
@@ -162,6 +171,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which 1994 film features the character Forrest Gump?",
@@ -186,6 +196,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "In which movie did Morgan Freeman famously play a character named Red?",
@@ -210,6 +221,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Who starred as the lead character in the movie 'The Wolf of Wall Street'?",
@@ -226,6 +238,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which movie features a famous scene with a tiger in a boat?",
@@ -250,6 +263,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "What movie is the line 'May the Force be with you' from?",
@@ -270,6 +284,7 @@
   {
     "difficulty": "medium",
     "category": "Film & TV",
+    "categoryId": 14,
     "translations": {
       "en": {
         "question": "Which animated film features a snowman named Olaf?",

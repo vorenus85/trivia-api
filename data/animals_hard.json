@@ -2,6 +2,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the only mammal capable of true flight?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird lays the largest eggs in relation to its body size?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the scientific name of the African elephant?",
@@ -58,6 +61,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which fish is known to produce electricity up to 600 volts?",
@@ -74,6 +78,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the most venomous fish in the ocean?",
@@ -90,6 +95,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal has the largest brain in proportion to its body size?",
@@ -106,6 +112,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the rarest species of big cat?",
@@ -122,6 +129,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which marine animal can change its gender multiple times during its life?",
@@ -138,6 +146,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird has the fastest wing beat?",
@@ -154,6 +163,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the longest-living vertebrate species?",
@@ -170,6 +180,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which mammal can survive entirely on salt water?",
@@ -186,6 +197,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "How many species of ants are known to exist?",
@@ -206,6 +218,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the primary diet of a gharial?",
@@ -222,6 +235,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal has the strongest bite force of any living creature?",
@@ -238,6 +252,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which insect is known as the 'White Ant'?",
@@ -254,6 +269,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which bird has the largest wingspan of any living bird?",
@@ -270,6 +286,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What is the primary function of a narwhal's tusk?",
@@ -286,6 +303,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "What unique feature do axolotls have that most amphibians do not?",
@@ -310,6 +328,7 @@
   {
     "difficulty": "hard",
     "category": "Animals",
+    "categoryId": 27,
     "translations": {
       "en": {
         "question": "Which animal has the most complex eye structure among invertebrates?",

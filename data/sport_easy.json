@@ -2,6 +2,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport is known as 'the king of sports'?",
@@ -18,6 +19,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport would you perform a slam dunk?",
@@ -34,6 +36,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country won the FIFA World Cup in 2018?",
@@ -50,6 +53,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "What is the maximum score in a single game of ten-pin bowling?",
@@ -66,6 +70,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country hosted the 2008 Summer Olympics?",
@@ -82,6 +87,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "What is the primary ball used in the sport of tennis?",
@@ -98,6 +104,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport involves hitting a shuttlecock over a net?",
@@ -114,6 +121,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport would you find a 'green jacket' awarded to the winner?",
@@ -130,6 +138,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport involves jumping over hurdles?",
@@ -146,6 +155,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which country is famous for inventing rugby?",
@@ -162,6 +172,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport is associated with the Stanley Cup?",
@@ -178,6 +189,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport would you perform a 'perfect 10'?",
@@ -194,6 +206,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "What is the term for a score of zero in tennis?",
@@ -210,6 +223,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport is known for its famous race, 'The Tour de France'?",
@@ -226,6 +240,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "In which sport would you perform a 'kickflip'?",
@@ -242,6 +257,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "What sport does Usain Bolt compete in?",
@@ -258,6 +274,7 @@
   {
     "difficulty": "easy",
     "category": "Sports",
+    "categoryId": 21,
     "translations": {
       "en": {
         "question": "Which sport is often called 'the beautiful game'?",
