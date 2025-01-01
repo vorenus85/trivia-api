@@ -1,0 +1,326 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the only mammal capable of true flight?",
+        "correct_answer": "Bat",
+        "incorrect_answers": ["Flying Squirrel", "Sugar Glider", "Colugo"]
+      },
+      "hu": {
+        "question": "Melyik az egyetlen emlős, amely képes valódi repülésre?",
+        "correct_answer": "Denevér",
+        "incorrect_answers": ["Repülő mókus", "Cukormókus", "Repülő maki"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird lays the largest eggs in relation to its body size?",
+        "correct_answer": "Kiwi",
+        "incorrect_answers": ["Ostrich", "Eagle", "Penguin"]
+      },
+      "hu": {
+        "question": "Melyik madár tojja a testméretéhez képest legnagyobb tojásokat?",
+        "correct_answer": "Kivi",
+        "incorrect_answers": ["Strucc", "Sas", "Pingvin"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the scientific name of the African elephant?",
+        "correct_answer": "Loxodonta africana",
+        "incorrect_answers": [
+          "Elephas maximus",
+          "Loxodonta cyclotis",
+          "Mammuthus primigenius"
+        ]
+      },
+      "hu": {
+        "question": "Mi az afrikai elefánt tudományos neve?",
+        "correct_answer": "Loxodonta africana",
+        "incorrect_answers": [
+          "Elephas maximus",
+          "Loxodonta cyclotis",
+          "Mammuthus primigenius"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which fish is known to produce electricity up to 600 volts?",
+        "correct_answer": "Electric Eel",
+        "incorrect_answers": ["Electric Ray", "Stingray", "Piranha"]
+      },
+      "hu": {
+        "question": "Melyik hal képes akár 600 voltos áramot termelni?",
+        "correct_answer": "Elektromos angolna",
+        "incorrect_answers": ["Elektromos rája", "Tüskés rája", "Piranha"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the most venomous fish in the ocean?",
+        "correct_answer": "Stonefish",
+        "incorrect_answers": ["Lionfish", "Pufferfish", "Moray Eel"]
+      },
+      "hu": {
+        "question": "Mi a legmérgezőbb hal az óceánban?",
+        "correct_answer": "Kőhal",
+        "incorrect_answers": ["Tűzhal", "Gömbhal", "Muréna"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal has the largest brain in proportion to its body size?",
+        "correct_answer": "Ant",
+        "incorrect_answers": ["Dolphin", "Human", "Elephant"]
+      },
+      "hu": {
+        "question": "Melyik állatnak van a testméretéhez képest legnagyobb agya?",
+        "correct_answer": "Hangya",
+        "incorrect_answers": ["Delfin", "Ember", "Elefánt"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the rarest species of big cat?",
+        "correct_answer": "Amur Leopard",
+        "incorrect_answers": ["Snow Leopard", "Siberian Tiger", "Jaguar"]
+      },
+      "hu": {
+        "question": "Mi a legritkább nagymacskafaj?",
+        "correct_answer": "Amur leopárd",
+        "incorrect_answers": ["Hópárduc", "Szibériai tigris", "Jaguár"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which marine animal can change its gender multiple times during its life?",
+        "correct_answer": "Clownfish",
+        "incorrect_answers": ["Seahorse", "Octopus", "Blue Whale"]
+      },
+      "hu": {
+        "question": "Melyik tengeri állat képes élete során többször is nemet váltani?",
+        "correct_answer": "Bohóchal",
+        "incorrect_answers": ["Csikóhal", "Polip", "Kék bálna"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird has the fastest wing beat?",
+        "correct_answer": "Hummingbird",
+        "incorrect_answers": ["Swift", "Pigeon", "Falcon"]
+      },
+      "hu": {
+        "question": "Melyik madárnak van a leggyorsabb szárnycsapása?",
+        "correct_answer": "Kolibri",
+        "incorrect_answers": ["Sarlósfecske", "Galamb", "Sólyom"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the longest-living vertebrate species?",
+        "correct_answer": "Greenland Shark",
+        "incorrect_answers": ["Tortoise", "Bowhead Whale", "Sturgeon"]
+      },
+      "hu": {
+        "question": "Mi a leghosszabb életű gerinces faj?",
+        "correct_answer": "Grönlandi cápa",
+        "incorrect_answers": ["Teknős", "Grönlandi bálna", "Tokhal"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which mammal can survive entirely on salt water?",
+        "correct_answer": "Sea Otter",
+        "incorrect_answers": ["Dolphin", "Seal", "Whale"]
+      },
+      "hu": {
+        "question": "Melyik emlős képes kizárólag sós vízből túlélni?",
+        "correct_answer": "Tengeri vidra",
+        "incorrect_answers": ["Delfin", "Fóka", "Bálna"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How many species of ants are known to exist?",
+        "correct_answer": "Over 12,000",
+        "incorrect_answers": ["Over 5,000", "Over 8,000", "Over 15,000"]
+      },
+      "hu": {
+        "question": "Hány hangyafaj ismert a világon?",
+        "correct_answer": "Több mint 12,000",
+        "incorrect_answers": [
+          "Több mint 5,000",
+          "Több mint 8,000",
+          "Több mint 15,000"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the primary diet of a gharial?",
+        "correct_answer": "Fish",
+        "incorrect_answers": ["Insects", "Small Mammals", "Plants"]
+      },
+      "hu": {
+        "question": "Mi a gaviál fő tápláléka?",
+        "correct_answer": "Hal",
+        "incorrect_answers": ["Rovarok", "Kis emlősök", "Növények"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal has the strongest bite force of any living creature?",
+        "correct_answer": "Saltwater Crocodile",
+        "incorrect_answers": ["Great White Shark", "Lion", "Hippopotamus"]
+      },
+      "hu": {
+        "question": "Melyik állat harapása a legerősebb az élőlények közül?",
+        "correct_answer": "Tengeri krokodil",
+        "incorrect_answers": ["Nagy fehér cápa", "Oroszlán", "Víziló"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which insect is known as the 'White Ant'?",
+        "correct_answer": "Termite",
+        "incorrect_answers": ["Carpenter Ant", "Fire Ant", "Leafcutter Ant"]
+      },
+      "hu": {
+        "question": "Melyik rovart nevezik 'Fehér hangyának'?",
+        "correct_answer": "Termeszhangya",
+        "incorrect_answers": ["Ácshangya", "Tűzhangya", "Levélvágó hangya"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird has the largest wingspan of any living bird?",
+        "correct_answer": "Wandering Albatross",
+        "incorrect_answers": ["Bald Eagle", "Andean Condor", "Pelican"]
+      },
+      "hu": {
+        "question": "Melyik madárnak van a legnagyobb szárnyfesztávolsága az élő madarak közül?",
+        "correct_answer": "Vándoralbatrosz",
+        "incorrect_answers": ["Fehérfejű rétisas", "Andoki kondor", "Pelikán"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the primary function of a narwhal's tusk?",
+        "correct_answer": "Sensory organ",
+        "incorrect_answers": ["Defense", "Hunting", "Mating display"]
+      },
+      "hu": {
+        "question": "Mi a narvál agyarának elsődleges funkciója?",
+        "correct_answer": "Érzékszerv",
+        "incorrect_answers": ["Védekezés", "Vadászathoz", "Udvarlási bemutató"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What unique feature do axolotls have that most amphibians do not?",
+        "correct_answer": "They retain their gills throughout life",
+        "incorrect_answers": [
+          "They breathe through their skin exclusively",
+          "They can change color like a chameleon",
+          "They lay eggs in freshwater and saltwater"
+        ]
+      },
+      "hu": {
+        "question": "Milyen egyedi tulajdonsága van az axolotlnak, amely a legtöbb kétéltűnél nem jellemző?",
+        "correct_answer": "Életük során megtartják kopoltyúikat",
+        "incorrect_answers": [
+          "Kizárólag a bőrükön keresztül lélegeznek",
+          "Színt tudnak változtatni, mint a kaméleon",
+          "Tojásaikat édes- és sósvízben is lerakják"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal has the most complex eye structure among invertebrates?",
+        "correct_answer": "Mantis Shrimp",
+        "incorrect_answers": ["Octopus", "Squid", "Horseshoe Crab"]
+      },
+      "hu": {
+        "question": "Melyik állatnak van a legbonyolultabb szemstruktúrája az gerinctelenek között?",
+        "correct_answer": "Sáskarák",
+        "incorrect_answers": ["Polip", "Tintahal", "Tőrfarkú rák"]
+      }
+    }
+  }
+]

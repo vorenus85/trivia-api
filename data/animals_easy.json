@@ -1,0 +1,308 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Hippocampus is the Latin name for which marine creature?",
+        "correct_answer": "Seahorse",
+        "incorrect_answers": ["Dolphin", "Whale", "Octopus"]
+      },
+      "hu": {
+        "question": "Mi a Hippocampus magyar neve?",
+        "correct_answer": "Csikóhal",
+        "incorrect_answers": ["Delfin", "Bálna", "Polip"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the fastest land animal?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": ["Lion", "Gazelle", "Horse"]
+      },
+      "hu": {
+        "question": "Mi a leggyorsabb szárazföldi állat?",
+        "correct_answer": "Gepárd",
+        "incorrect_answers": ["Oroszlán", "Gazella", "Ló"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "correct_answer": "Lion",
+        "incorrect_answers": ["Tiger", "Elephant", "Cheetah"]
+      },
+      "hu": {
+        "question": "Melyik állatot nevezik az 'Őserdők Királyának'?",
+        "correct_answer": "Oroszlán",
+        "incorrect_answers": ["Tigris", "Elefánt", "Gepárd"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the largest mammal on Earth?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": ["Elephant", "Hippopotamus", "Giraffe"]
+      },
+      "hu": {
+        "question": "Mi a Föld legnagyobb emlőse?",
+        "correct_answer": "Kék bálna",
+        "incorrect_answers": ["Elefánt", "Víziló", "Zsiráf"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How many legs does a spider have?",
+        "correct_answer": "8",
+        "incorrect_answers": ["6", "10", "12"]
+      },
+      "hu": {
+        "question": "Hány lába van egy póknak?",
+        "correct_answer": "8",
+        "incorrect_answers": ["6", "10", "12"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What do pandas mainly eat?",
+        "correct_answer": "Bamboo",
+        "incorrect_answers": ["Leaves", "Grass", "Fruits"]
+      },
+      "hu": {
+        "question": "Mit esznek főként a pandák?",
+        "correct_answer": "Bambusz",
+        "incorrect_answers": ["Levelek", "Fű", "Gyümölcsök"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the tallest land animal?",
+        "correct_answer": "Giraffe",
+        "incorrect_answers": ["Elephant", "Camel", "Ostrich"]
+      },
+      "hu": {
+        "question": "Mi a legmagasabb szárazföldi állat?",
+        "correct_answer": "Zsiráf",
+        "incorrect_answers": ["Elefánt", "Teve", "Strucc"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What type of animal is a Komodo dragon?",
+        "correct_answer": "Lizard",
+        "incorrect_answers": ["Snake", "Crocodile", "Turtle"]
+      },
+      "hu": {
+        "question": "Milyen állat a komodói sárkány?",
+        "correct_answer": "Gyík",
+        "incorrect_answers": ["Kígyó", "Krokodil", "Teknős"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the main characteristic of mammals?",
+        "correct_answer": "They produce milk",
+        "incorrect_answers": [
+          "They have feathers",
+          "They lay eggs",
+          "They breathe underwater"
+        ]
+      },
+      "hu": {
+        "question": "Mi az emlősök fő jellemzője?",
+        "correct_answer": "Tejet termelnek",
+        "incorrect_answers": [
+          "Tolluk van",
+          "Tojást raknak",
+          "Víz alatt lélegeznek"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird is known for mimicking sounds?",
+        "correct_answer": "Parrot",
+        "incorrect_answers": ["Crow", "Sparrow", "Owl"]
+      },
+      "hu": {
+        "question": "Melyik madár ismert arról, hogy hangokat utánoz?",
+        "correct_answer": "Papagáj",
+        "incorrect_answers": ["Varjú", "Veréb", "Bagoly"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What type of animal is a dolphin?",
+        "correct_answer": "Mammal",
+        "incorrect_answers": ["Fish", "Reptile", "Amphibian"]
+      },
+      "hu": {
+        "question": "Milyen típusú állat a delfin?",
+        "correct_answer": "Emlős",
+        "incorrect_answers": ["Hal", "Hüllő", "Kétéltű"]
+      }
+    }
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How many legs do butterflies have?",
+        "correct_answer": "6",
+        "incorrect_answers": ["2", "4", "0"]
+      },
+      "hu": {
+        "question": "Hány lába van egy pillangónak?",
+        "correct_answer": "6",
+        "incorrect_answers": ["2", "4", "0"]
+      }
+    }
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the scientific name for modern day humans?",
+        "correct_answer": "Homo Sapiens",
+        "incorrect_answers": [
+          "Homo Ergaster",
+          "Homo Erectus",
+          "Homo Neanderthalensis"
+        ]
+      },
+      "hu": {
+        "question": "Mi a tudományos neve a mai modern embernek?",
+        "correct_answer": "Homo Sapiens",
+        "incorrect_answers": [
+          "Homo Ergaster",
+          "Homo Erectus",
+          "Homo Neanderthalensis"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the only mammal capable of true flight?",
+        "correct_answer": "Bat",
+        "incorrect_answers": ["Eagle", "Penguin", "Ostrich"]
+      },
+      "hu": {
+        "question": "Melyik az egyetlen emlős, amely valóban tud repülni?",
+        "correct_answer": "Denevér",
+        "incorrect_answers": ["Sas", "Pingvin", "Strucc"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What do bees collect and use to make honey?",
+        "correct_answer": "Nectar",
+        "incorrect_answers": ["Pollen", "Leaves", "Sap"]
+      },
+      "hu": {
+        "question": "Mit gyűjtenek a méhek, hogy mézet készítsenek?",
+        "correct_answer": "Nektár",
+        "incorrect_answers": ["Virágpor", "Levelek", "Nedv"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal is known for its ability to change color?",
+        "correct_answer": "Chameleon",
+        "incorrect_answers": ["Octopus", "Parrot", "Snake"]
+      },
+      "hu": {
+        "question": "Melyik állat ismert arról, hogy képes megváltoztatni a színét?",
+        "correct_answer": "Kaméleon",
+        "incorrect_answers": ["Polip", "Papagáj", "Kígyó"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the name of a baby cat?",
+        "correct_answer": "Kitten",
+        "incorrect_answers": ["Cub", "Calf", "Pup"]
+      },
+      "hu": {
+        "question": "Hogy hívják a kismacskát?",
+        "correct_answer": "Kiscica",
+        "incorrect_answers": ["Kölyök", "Borjú", "Kölyökkutya"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird is a symbol of peace?",
+        "correct_answer": "Dove",
+        "incorrect_answers": ["Sparrow", "Eagle", "Owl"]
+      },
+      "hu": {
+        "question": "Melyik madár a béke szimbóluma?",
+        "correct_answer": "Galamb",
+        "incorrect_answers": ["Veréb", "Sas", "Bagoly"]
+      }
+    }
+  }
+]

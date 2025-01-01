@@ -1,0 +1,362 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first emperor of China?",
+        "correct_answer": "Qin Shi Huang",
+        "incorrect_answers": ["Liu Bang", "Sun Yat-sen", "Han Wudi"]
+      },
+      "hu": {
+        "question": "Ki volt Kína első császára?",
+        "correct_answer": "Qin Shi Huang",
+        "incorrect_answers": ["Liu Bang", "Sun Yat-sen", "Han Wudi"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which battle marked the turning point in the American Civil War?",
+        "correct_answer": "The Battle of Gettysburg",
+        "incorrect_answers": [
+          "The Battle of Antietam",
+          "The Battle of Fort Sumter",
+          "The Battle of Shiloh"
+        ]
+      },
+      "hu": {
+        "question": "Melyik csata volt a döntő fordulópont az amerikai polgárháborúban?",
+        "correct_answer": "A gettysburgi csata",
+        "incorrect_answers": [
+          "Az antietami csata",
+          "A Fort Sumter-i csata",
+          "A Shiloh-i csata"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which country was ruled by the Habsburg dynasty?",
+        "correct_answer": "Austria",
+        "incorrect_answers": ["Spain", "Prussia", "France"]
+      },
+      "hu": {
+        "question": "Melyik országot uralta a Habsburg-dinasztia?",
+        "correct_answer": "Ausztria",
+        "incorrect_answers": ["Spanyolország", "Poroszország", "Franciaország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "correct_answer": "Nikita Khrushchev",
+        "incorrect_answers": [
+          "Joseph Stalin",
+          "Leonid Brezhnev",
+          "Mikhail Gorbachev"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt a Szovjetunió vezetője a kubai rakétaválság idején?",
+        "correct_answer": "Nikita Hruscsov",
+        "incorrect_answers": [
+          "Joszif Sztálin",
+          "Leonyid Brezsnyev",
+          "Mihail Gorbacsov"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1987", "1991", "1993"]
+      },
+      "hu": {
+        "question": "Melyik évben omlott le a berlini fal?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1987", "1991", "1993"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "correct_answer": "Amelia Earhart",
+        "incorrect_answers": [
+          "Bessie Coleman",
+          "Harriet Quimby",
+          "Valentina Tereshkova"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt az első nő, aki egyedül átrepülte az Atlanti-óceánt?",
+        "correct_answer": "Amelia Earhart",
+        "incorrect_answers": [
+          "Bessie Coleman",
+          "Harriet Quimby",
+          "Valentina Tereshkova"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which treaty ended World War I?",
+        "correct_answer": "The Treaty of Versailles",
+        "incorrect_answers": [
+          "The Treaty of Paris",
+          "The Treaty of Tordesillas",
+          "The Treaty of Ghent"
+        ]
+      },
+      "hu": {
+        "question": "Melyik szerződés zárta le az első világháborút?",
+        "correct_answer": "A versailles-i szerződés",
+        "incorrect_answers": [
+          "A párizsi szerződés",
+          "A Tordesillasi szerződés",
+          "A Ghenti szerződés"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which empire was ruled by Genghis Khan?",
+        "correct_answer": "The Mongol Empire",
+        "incorrect_answers": [
+          "The Ottoman Empire",
+          "The Roman Empire",
+          "The Byzantine Empire"
+        ]
+      },
+      "hu": {
+        "question": "Melyik birodalmat uralta Dzsingisz kán?",
+        "correct_answer": "A Mongol Birodalom",
+        "incorrect_answers": [
+          "Az Oszmán Birodalom",
+          "A Római Birodalom",
+          "A Bizánci Birodalom"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which explorer is credited with discovering America in 1492?",
+        "correct_answer": "Christopher Columbus",
+        "incorrect_answers": [
+          "Leif Erikson",
+          "Marco Polo",
+          "Ferdinand Magellan"
+        ]
+      },
+      "hu": {
+        "question": "Melyik felfedezőt tartják felelősnek Amerika 1492-es felfedezéséért?",
+        "correct_answer": "Krisztóf Kolumbusz",
+        "incorrect_answers": [
+          "Leif Erikson",
+          "Marco Polo",
+          "Ferdinand Magellán"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What year did India gain independence from Britain?",
+        "correct_answer": "1947",
+        "incorrect_answers": ["1950", "1960", "1930"]
+      },
+      "hu": {
+        "question": "Melyik évben nyerte el India a függetlenségét Nagy-Britanniától?",
+        "correct_answer": "1947",
+        "incorrect_answers": ["1950", "1960", "1930"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the second president of the United States?",
+        "correct_answer": "John Adams",
+        "incorrect_answers": [
+          "Thomas Jefferson",
+          "Abraham Lincoln",
+          "George Washington"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt az Egyesült Államok második elnöke?",
+        "correct_answer": "John Adams",
+        "incorrect_answers": [
+          "Thomas Jefferson",
+          "Abraham Lincoln",
+          "George Washington"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the leader of the French Revolution?",
+        "correct_answer": "Maximilien Robespierre",
+        "incorrect_answers": [
+          "Napoleon Bonaparte",
+          "Louis XVI",
+          "Jean-Paul Marat"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt a francia forradalom vezetője?",
+        "correct_answer": "Maximilien Robespierre",
+        "incorrect_answers": [
+          "Napóleon Bonaparte",
+          "XVI. Lajos",
+          "Jean-Paul Marat"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which war was fought between the North and South of the United States?",
+        "correct_answer": "The American Civil War",
+        "incorrect_answers": [
+          "The War of 1812",
+          "The Spanish-American War",
+          "The Revolutionary War"
+        ]
+      },
+      "hu": {
+        "question": "Melyik háború zajlott az Egyesült Államok északi és déli része között?",
+        "correct_answer": "Az amerikai polgárháború",
+        "incorrect_answers": [
+          "1812-es háború",
+          "Spanyol-amerikai háború",
+          "Függetlenségi háború"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first female prime minister of the United Kingdom?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+          "Theresa May",
+          "Queen Elizabeth II",
+          "Harriet Harman"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt az Egyesült Királyság első női miniszterelnöke?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+          "Theresa May",
+          "II. Erzsébet királynő",
+          "Harriet Harman"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which event triggered the start of World War I?",
+        "correct_answer": "The assassination of Archduke Franz Ferdinand",
+        "incorrect_answers": [
+          "The invasion of Poland",
+          "The attack on Pearl Harbor",
+          "The bombing of Hiroshima"
+        ]
+      },
+      "hu": {
+        "question": "Melyik esemény váltotta ki az első világháborút?",
+        "correct_answer": "Franz Ferdinand főherceg meggyilkolása",
+        "incorrect_answers": [
+          "Lengyelország megszállása",
+          "Pearl Harbor támadása",
+          "Hiroshima bombázása"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which country was formerly known as Persia?",
+        "correct_answer": "Iran",
+        "incorrect_answers": ["Iraq", "Turkey", "Afghanistan"]
+      },
+      "hu": {
+        "question": "Melyik országot hívták régen Perzsiának?",
+        "correct_answer": "Irán",
+        "incorrect_answers": ["Irak", "Törökország", "Afganisztán"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What year did the French Revolution begin?",
+        "correct_answer": "1789",
+        "incorrect_answers": ["1776", "1800", "1815"]
+      },
+      "hu": {
+        "question": "Melyik évben kezdődött a francia forradalom?",
+        "correct_answer": "1789",
+        "incorrect_answers": ["1776", "1800", "1815"]
+      }
+    }
+  }
+]

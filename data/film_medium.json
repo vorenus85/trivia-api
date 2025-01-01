@@ -1,0 +1,286 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who directed the film 'Inception'?",
+        "correct_answer": "Christopher Nolan",
+        "incorrect_answers": [
+          "Martin Scorsese",
+          "Quentin Tarantino",
+          "Steven Spielberg"
+        ]
+      },
+      "hu": {
+        "question": "Ki rendezte az 'Inception' című filmet?",
+        "correct_answer": "Christopher Nolan",
+        "incorrect_answers": [
+          "Martin Scorsese",
+          "Quentin Tarantino",
+          "Steven Spielberg"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which actor played the role of Walter White in the TV series 'Breaking Bad'?",
+        "correct_answer": "Bryan Cranston",
+        "incorrect_answers": ["Aaron Paul", "Jon Hamm", "Matthew McConaughey"]
+      },
+      "hu": {
+        "question": "Melyik színész játszotta Walter White szerepét a 'Breaking Bad' című tévésorozatban?",
+        "correct_answer": "Bryan Cranston",
+        "incorrect_answers": ["Aaron Paul", "Jon Hamm", "Matthew McConaughey"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which 2010 film is about a team of thieves who enter people’s dreams?",
+        "correct_answer": "Inception",
+        "incorrect_answers": ["Interstellar", "Shutter Island", "The Prestige"]
+      },
+      "hu": {
+        "question": "Melyik 2010-es film szól egy tolvajcsoportról, akik emberek álmaiba hatolnak?",
+        "correct_answer": "Inception",
+        "incorrect_answers": ["Interstellar", "Shutter Island", "The Prestige"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who was the first actor to play James Bond in the film series?",
+        "correct_answer": "Sean Connery",
+        "incorrect_answers": ["Roger Moore", "Pierce Brosnan", "Daniel Craig"]
+      },
+      "hu": {
+        "question": "Ki volt az első színész, aki James Bond szerepét játszotta a film sorozatban?",
+        "correct_answer": "Sean Connery",
+        "incorrect_answers": ["Roger Moore", "Pierce Brosnan", "Daniel Craig"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which TV series would you find the character Daenerys Targaryen?",
+        "correct_answer": "Game of Thrones",
+        "incorrect_answers": ["Vikings", "The Witcher", "The Mandalorian"]
+      },
+      "hu": {
+        "question": "Melyik tévésorozatban találkozhatsz Daenerys Targaryen karakterével?",
+        "correct_answer": "Trónok harca",
+        "incorrect_answers": ["Vikingek", "A boszorkány", "The Mandalorian"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which movie features a group of survivors trying to survive after a zombie apocalypse?",
+        "correct_answer": "The Walking Dead",
+        "incorrect_answers": ["World War Z", "I Am Legend", "28 Days Later"]
+      },
+      "hu": {
+        "question": "Melyik filmben próbál egy túlélőcsoport túlélni a zombi apokalipszis után?",
+        "correct_answer": "The Walking Dead",
+        "incorrect_answers": ["World War Z", "I Am Legend", "28 nappal később"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What 2008 movie features a superhero who gets his powers from a radioactive spider?",
+        "correct_answer": "Spider-Man",
+        "incorrect_answers": [
+          "Batman Begins",
+          "Iron Man",
+          "The Incredible Hulk"
+        ]
+      },
+      "hu": {
+        "question": "Melyik 2008-as filmben szerepel egy szuperhős, aki egy radioaktív pók által szerzi meg a hatalmát?",
+        "correct_answer": "Pókember",
+        "incorrect_answers": [
+          "Batman: Kezdődik",
+          "Vasember",
+          "A hihetetlen Hulk"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In the movie 'The Matrix,' what color is the pill that Neo takes to learn the truth?",
+        "correct_answer": "Red",
+        "incorrect_answers": ["Blue", "Green", "Yellow"]
+      },
+      "hu": {
+        "question": "A 'Mátrix' című filmben milyen színű pirulát vesz be Neo, hogy megtudja az igazságot?",
+        "correct_answer": "Piros",
+        "incorrect_answers": ["Kék", "Zöld", "Sárga"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which character in the TV series 'Friends' famously said, 'How you doin'?'",
+        "correct_answer": "Joey Tribbiani",
+        "incorrect_answers": ["Ross Geller", "Chandler Bing", "Monica Geller"]
+      },
+      "hu": {
+        "question": "Melyik karakter mondta híresen a 'How you doin'?' mondatot a 'Jóbarátok' című tévésorozatban?",
+        "correct_answer": "Joey Tribbiani",
+        "incorrect_answers": ["Ross Geller", "Chandler Bing", "Monica Geller"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which 1994 film features the character Forrest Gump?",
+        "correct_answer": "Forrest Gump",
+        "incorrect_answers": [
+          "The Shawshank Redemption",
+          "Pulp Fiction",
+          "The Green Mile"
+        ]
+      },
+      "hu": {
+        "question": "Melyik 1994-es filmben szerepel Forrest Gump karaktere?",
+        "correct_answer": "Forrest Gump",
+        "incorrect_answers": [
+          "A remény rabjai",
+          "Pulp Fiction",
+          "A zöld mérföld"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which movie did Morgan Freeman famously play a character named Red?",
+        "correct_answer": "The Shawshank Redemption",
+        "incorrect_answers": [
+          "Bruce Almighty",
+          "The Dark Knight",
+          "Million Dollar Baby"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmben játszotta Morgan Freeman híresen Red nevű karaktert?",
+        "correct_answer": "A remény rabjai",
+        "incorrect_answers": [
+          "Bruce almighty",
+          "A sötét lovag",
+          "Millió dolláros bébi"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who starred as the lead character in the movie 'The Wolf of Wall Street'?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": ["Brad Pitt", "Matthew McConaughey", "Johnny Depp"]
+      },
+      "hu": {
+        "question": "Ki játszotta a főszerepet a 'Wall Street farkasa' című filmben?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": ["Brad Pitt", "Matthew McConaughey", "Johnny Depp"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which movie features a famous scene with a tiger in a boat?",
+        "correct_answer": "Life of Pi",
+        "incorrect_answers": [
+          "The Jungle Book",
+          "The Lion King",
+          "The Secret Life of Walter Mitty"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmben szerepel egy híres jelenet, ahol egy tigris egy csónakban van?",
+        "correct_answer": "Pi élete",
+        "incorrect_answers": [
+          "A dzsungel könyve",
+          "Az oroszlánkirály",
+          "Walter Mitty titkos élete"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What movie is the line 'May the Force be with you' from?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": [
+          "Star Trek",
+          "Guardians of the Galaxy",
+          "The Matrix"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmből származik a 'May the Force be with you' mondat?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": ["Star Trek", "Galaxis őrzői", "Mátrix"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which animated film features a snowman named Olaf?",
+        "correct_answer": "Frozen",
+        "incorrect_answers": ["Zootopia", "Shrek", "Moana"]
+      },
+      "hu": {
+        "question": "Melyik animációs filmben szerepel Olaf nevű hóember?",
+        "correct_answer": "Jégvarázs",
+        "incorrect_answers": ["Zootropolis", "Shrek", "Vaiana"]
+      }
+    }
+  }
+]

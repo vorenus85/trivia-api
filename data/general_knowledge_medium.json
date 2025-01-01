@@ -1,0 +1,402 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Claude Monet"
+        ]
+      },
+      "hu": {
+        "question": "Ki festette a Mona Lisát?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Claude Monet"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Pb", "Fe"]
+      },
+      "hu": {
+        "question": "Mi a kémiai jele az aranynak?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Pb", "Fe"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the smallest country in Europe?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+      },
+      "hu": {
+        "question": "Mi a legkisebb ország Európában?",
+        "correct_answer": "Vatikán",
+        "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "In which city can you find the famous landmark, the Eiffel Tower?",
+        "correct_answer": "Paris",
+        "incorrect_answers": ["London", "Rome", "New York"]
+      },
+      "hu": {
+        "question": "Melyik városban található a híres Eiffel-torony?",
+        "correct_answer": "Párizs",
+        "incorrect_answers": ["London", "Róma", "New York"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which language is primarily spoken in Brazil?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": ["Spanish", "English", "French"]
+      },
+      "hu": {
+        "question": "Melyik nyelvet beszélik leginkább Brazíliában?",
+        "correct_answer": "Portugál",
+        "incorrect_answers": ["Spanyol", "Angol", "Francia"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the longest river in the world?",
+        "correct_answer": "Nile",
+        "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+      },
+      "hu": {
+        "question": "Mi a világ leghosszabb folyója?",
+        "correct_answer": "Nílus",
+        "incorrect_answers": ["Amazonas", "Jangce", "Mississippi"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which animal is known as the King of the Jungle?",
+        "correct_answer": "Lion",
+        "incorrect_answers": ["Tiger", "Elephant", "Giraffe"]
+      },
+      "hu": {
+        "question": "Melyik állatot nevezik az Erődség királyának?",
+        "correct_answer": "Oroszlán",
+        "incorrect_answers": ["Tigris", "Elefánt", "Zsiráf"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": ["Leonardo da Vinci", "Raphael", "Donatello"]
+      },
+      "hu": {
+        "question": "Ki festette a Sixtus-kápolna mennyezetét?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": ["Leonardo da Vinci", "Raffaello", "Donatello"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which planet is known as the Red Planet?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Earth", "Jupiter", "Venus"]
+      },
+      "hu": {
+        "question": "Melyik bolygót nevezik Vörös bolygónak?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Föld", "Jupiter", "Vénusz"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the largest mammal in the world?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": ["Elephant", "Giraffe", "Shark"]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb emlős a világon?",
+        "correct_answer": "Kék bálna",
+        "incorrect_answers": ["Elefánt", "Zsiráf", "Cápa"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "correct_answer": "Australia",
+        "incorrect_answers": ["USA", "Mexico", "South Africa"]
+      },
+      "hu": {
+        "question": "Melyik országban található a Nagy Korallzátony?",
+        "correct_answer": "Ausztrália",
+        "incorrect_answers": ["USA", "Mexikó", "Dél-Afrika"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the hardest natural substance on Earth?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": ["Gold", "Iron", "Platinum"]
+      },
+      "hu": {
+        "question": "Mi a legkeményebb természetes anyag a Földön?",
+        "correct_answer": "Gyémánt",
+        "incorrect_answers": ["Arany", "Vas", "Platina"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital of Australia?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+      },
+      "hu": {
+        "question": "Mi Ausztrália fővárosa?",
+        "correct_answer": "Canberra",
+        "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the square root of 144?",
+        "correct_answer": "12",
+        "incorrect_answers": ["14", "16", "10"]
+      },
+      "hu": {
+        "question": "Mi a 144 négyzetgyöke?",
+        "correct_answer": "12",
+        "incorrect_answers": ["14", "16", "10"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which of these countries is not in Europe?",
+        "correct_answer": "Australia",
+        "incorrect_answers": ["France", "Germany", "Italy"]
+      },
+      "hu": {
+        "question": "Melyik ország nem található Európában?",
+        "correct_answer": "Ausztrália",
+        "incorrect_answers": ["Franciaország", "Németország", "Olaszország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Marie Curie"]
+      },
+      "hu": {
+        "question": "Melyik híres tudós dolgozta ki a relativitás elméletét?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Marie Curie"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital of Japan?",
+        "correct_answer": "Tokyo",
+        "incorrect_answers": ["Osaka", "Kyoto", "Hiroshima"]
+      },
+      "hu": {
+        "question": "Mi Japán fővárosa?",
+        "correct_answer": "Tokió",
+        "incorrect_answers": ["Osaka", "Kiotó", "Hiroshima"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What year did the Titanic sink on its maiden voyage?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1920", "1918"]
+      },
+      "hu": {
+        "question": "Melyik évben süllyedt el a Titanic első útján?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1920", "1918"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which famous structure was completed in 1889?",
+        "correct_answer": "Eiffel Tower",
+        "incorrect_answers": [
+          "Statue of Liberty",
+          "Big Ben",
+          "Empire State Building"
+        ]
+      },
+      "hu": {
+        "question": "Melyik híres építményt fejezték be 1889-ben?",
+        "correct_answer": "Eiffel-torony",
+        "incorrect_answers": [
+          "Szabadság-szobor",
+          "Big Ben",
+          "Empire State Building"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "How many stars are there on the flag of the European Union?",
+        "correct_answer": "12",
+        "incorrect_answers": ["15", "10", "20"]
+      },
+      "hu": {
+        "question": "Hány csillag található az Európai Unió zászlaján?",
+        "correct_answer": "12",
+        "incorrect_answers": ["15", "10", "20"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the term for a word or phrase that reads the same backward as forward?",
+        "correct_answer": "Palindrome",
+        "incorrect_answers": ["Anagram", "Alliteration", "Homonym"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a szónak vagy kifejezésnek, amely előre és visszafelé is ugyanaz?",
+        "correct_answer": "Palindróma",
+        "incorrect_answers": ["Anagramma", "Alliteráció", "Homonima"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "In which country would you find the city of Timbuktu?",
+        "correct_answer": "Mali",
+        "incorrect_answers": ["Sudan", "Ethiopia", "Niger"]
+      },
+      "hu": {
+        "question": "Melyik országban található Timbuktu városa?",
+        "correct_answer": "Mali",
+        "incorrect_answers": ["Szudán", "Etiópia", "Niger"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the national flower of Japan?",
+        "correct_answer": "Cherry Blossom",
+        "incorrect_answers": ["Lotus", "Rose", "Sunflower"]
+      },
+      "hu": {
+        "question": "Mi Japán nemzeti virága?",
+        "correct_answer": "Cseresznyevirág",
+        "incorrect_answers": ["Lótusz", "Rózsa", "Napraforgó"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": ["China", "USA", "UK"]
+      },
+      "hu": {
+        "question": "Melyik ország rendezte a 2016-os nyári olimpiát?",
+        "correct_answer": "Brazília",
+        "incorrect_answers": ["Kína", "USA", "Egyesült Királyság"]
+      }
+    }
+  }
+]

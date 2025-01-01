@@ -1,0 +1,302 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Fe", "Cu"]
+      },
+      "hu": {
+        "question": "Mi a kémiai jele az aranynak?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Fe", "Cu"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the second most abundant gas in Earth's atmosphere?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Nitrogen", "Carbon dioxide", "Argon"]
+      },
+      "hu": {
+        "question": "Mi a második leggyakoribb gáz a Föld légkörében?",
+        "correct_answer": "Oxigén",
+        "incorrect_answers": ["Nitrogén", "Szén-dioxid", "Argon"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What type of rock is formed from cooled magma or lava?",
+        "correct_answer": "Igneous rock",
+        "incorrect_answers": [
+          "Sedimentary rock",
+          "Metamorphic rock",
+          "Sandstone"
+        ]
+      },
+      "hu": {
+        "question": "Milyen típusú kőzet keletkezik lehűlt magmából vagy lávából?",
+        "correct_answer": "Vulkanikus kőzet",
+        "incorrect_answers": ["Üledékes kőzet", "Metamorf kőzet", "Homokkő"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the largest moon of Saturn?",
+        "correct_answer": "Titan",
+        "incorrect_answers": ["Enceladus", "Rhea", "Mimas"]
+      },
+      "hu": {
+        "question": "Mi a Saturnus legnagyobb holdja?",
+        "correct_answer": "Titan",
+        "incorrect_answers": ["Enceladus", "Rhea", "Mimas"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What element has the atomic number 1?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": ["Helium", "Oxygen", "Carbon"]
+      },
+      "hu": {
+        "question": "Melyik elemnek van az 1-es rendszáma?",
+        "correct_answer": "Hidrogén",
+        "incorrect_answers": ["Hélium", "Oxigén", "Szén"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the process by which plants lose water through small openings in their leaves?",
+        "correct_answer": "Transpiration",
+        "incorrect_answers": ["Evaporation", "Condensation", "Absorption"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a folyamatnak, amikor a növények vizet vesznek el a leveleik apró nyílásain?",
+        "correct_answer": "Transzpiráció",
+        "incorrect_answers": ["Párolgás", "Kondenzáció", "Felszívódás"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical formula for methane?",
+        "correct_answer": "CH4",
+        "incorrect_answers": ["CO2", "C2H6", "CH3"]
+      },
+      "hu": {
+        "question": "Mi a metán kémiai képlete?",
+        "correct_answer": "CH4",
+        "incorrect_answers": ["CO2", "C2H6", "CH3"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the most common element in the Earth's crust?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Silicon", "Aluminum", "Iron"]
+      },
+      "hu": {
+        "question": "Mi a leggyakoribb elem a Föld kérgében?",
+        "correct_answer": "Oxigén",
+        "incorrect_answers": ["Szilícium", "Alumínium", "Vas"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct_answer": "100°C",
+        "incorrect_answers": ["90°C", "110°C", "150°C"]
+      },
+      "hu": {
+        "question": "Mi a víz forráspontja Celsius fokban?",
+        "correct_answer": "100°C",
+        "incorrect_answers": ["90°C", "110°C", "150°C"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the most abundant element in the universe?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": ["Helium", "Oxygen", "Carbon"]
+      },
+      "hu": {
+        "question": "Mi a legbőségesebb elem az univerzumban?",
+        "correct_answer": "Hidrogén",
+        "incorrect_answers": ["Hélium", "Oxigén", "Szén"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the unit of electrical resistance?",
+        "correct_answer": "Ohm",
+        "incorrect_answers": ["Volt", "Ampere", "Watt"]
+      },
+      "hu": {
+        "question": "Mi az elektromos ellenállás mértékegysége?",
+        "correct_answer": "Ohm",
+        "incorrect_answers": ["Volt", "Amper", "Watt"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the largest type of star in the universe?",
+        "correct_answer": "Supergiant",
+        "incorrect_answers": ["Main sequence star", "Red dwarf", "Neutron star"]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb típusú csillag az univerzumban?",
+        "correct_answer": "Szuperóriás",
+        "incorrect_answers": [
+          "Főszekvenciás csillag",
+          "Vörös törpe",
+          "Neutroncsillag"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the name of the largest active volcano on Earth?",
+        "correct_answer": "Mauna Loa",
+        "incorrect_answers": [
+          "Mount Vesuvius",
+          "Mount St. Helens",
+          "Mount Fuji"
+        ]
+      },
+      "hu": {
+        "question": "Mi a neve a Föld legnagyobb aktív vulkánjának?",
+        "correct_answer": "Mauna Loa",
+        "incorrect_answers": ["Vezúv", "Szent Helens-hegy", "Fuji-hegy"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for sodium?",
+        "correct_answer": "Na",
+        "incorrect_answers": ["S", "K", "Ca"]
+      },
+      "hu": {
+        "question": "Mi a nátrium kémiai jele?",
+        "correct_answer": "Na",
+        "incorrect_answers": ["S", "K", "Ca"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the primary function of chlorophyll in plants?",
+        "correct_answer": "Photosynthesis",
+        "incorrect_answers": ["Respiration", "Transpiration", "Absorption"]
+      },
+      "hu": {
+        "question": "Mi a klorofill elsődleges funkciója a növényekben?",
+        "correct_answer": "Fotoszintézis",
+        "incorrect_answers": ["Légzés", "Transzpiráció", "Felszívódás"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the boiling point of water in Fahrenheit?",
+        "correct_answer": "212°F",
+        "incorrect_answers": ["200°F", "220°F", "180°F"]
+      },
+      "hu": {
+        "question": "Mi a víz forráspontja Fahrenheit fokban?",
+        "correct_answer": "212°F",
+        "incorrect_answers": ["200°F", "220°F", "180°F"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "correct_answer": "H2SO4",
+        "incorrect_answers": ["HCl", "HNO3", "H3PO4"]
+      },
+      "hu": {
+        "question": "Mi a kénsav kémiai képlete?",
+        "correct_answer": "H2SO4",
+        "incorrect_answers": ["HCl", "HNO3", "H3PO4"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the most common type of rock on Earth?",
+        "correct_answer": "Sedimentary rock",
+        "incorrect_answers": ["Metamorphic rock", "Igneous rock", "Limestone"]
+      },
+      "hu": {
+        "question": "Mi a leggyakoribb kőzet típus a Földön?",
+        "correct_answer": "Üledékes kőzet",
+        "incorrect_answers": ["Metamorf kőzet", "Vulkanikus kőzet", "Homokkő"]
+      }
+    }
+  }
+]

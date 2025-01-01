@@ -1,0 +1,326 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital city of Italy?",
+        "correct_answer": "Rome",
+        "incorrect_answers": ["Paris", "Madrid", "Berlin"]
+      },
+      "hu": {
+        "question": "Mi Olaszország fővárosa?",
+        "correct_answer": "Róma",
+        "incorrect_answers": ["Párizs", "Madrid", "Berlin"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Saturn", "Earth", "Mars"]
+      },
+      "hu": {
+        "question": "Mi a Naprendszer legnagyobb bolygója?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Szaturnusz", "Föld", "Mars"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the main ingredient in guacamole?",
+        "correct_answer": "Avocado",
+        "incorrect_answers": ["Tomato", "Onion", "Pepper"]
+      },
+      "hu": {
+        "question": "Mi a guacamole fő összetevője?",
+        "correct_answer": "Avokádó",
+        "incorrect_answers": ["Paradicsom", "Hagyma", "Paprika"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What color are the stars on the flag of the United States?",
+        "correct_answer": "White",
+        "incorrect_answers": ["Blue", "Red", "Yellow"]
+      },
+      "hu": {
+        "question": "Milyen színűek a csillagok az Egyesült Államok zászlaján?",
+        "correct_answer": "Fehér",
+        "incorrect_answers": ["Kék", "Piros", "Sárga"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "How many continents are there on Earth?",
+        "correct_answer": "7",
+        "incorrect_answers": ["6", "5", "8"]
+      },
+      "hu": {
+        "question": "Hány kontinens van a Földön?",
+        "correct_answer": "7",
+        "incorrect_answers": ["6", "5", "8"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What do bees produce?",
+        "correct_answer": "Honey",
+        "incorrect_answers": ["Sugar", "Milk", "Nectar"]
+      },
+      "hu": {
+        "question": "Mit termelnek a méhek?",
+        "correct_answer": "Méz",
+        "incorrect_answers": ["Cukor", "Tej", "Nektár"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the tallest mountain in the world?",
+        "correct_answer": "Mount Everest",
+        "incorrect_answers": ["K2", "Kangchenjunga", "Makalu"]
+      },
+      "hu": {
+        "question": "Mi a világ legmagasabb hegye?",
+        "correct_answer": "Mount Everest",
+        "incorrect_answers": ["K2", "Kancsendzönga", "Makalu"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which fruit is known as the 'king of fruits'?",
+        "correct_answer": "Mango",
+        "incorrect_answers": ["Apple", "Banana", "Pineapple"]
+      },
+      "hu": {
+        "question": "Melyik gyümölcsöt nevezik a gyümölcsök királyának?",
+        "correct_answer": "Mangó",
+        "incorrect_answers": ["Alma", "Banán", "Ananász"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which bird is known for being flightless and lives in Antarctica?",
+        "correct_answer": "Penguin",
+        "incorrect_answers": ["Ostrich", "Eagle", "Seagull"]
+      },
+      "hu": {
+        "question": "Melyik madár nem tud repülni, és az Antarktiszon él?",
+        "correct_answer": "Pingvin",
+        "incorrect_answers": ["Strucc", "Sas", "Sirály"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the boiling point of water in Celsius?",
+        "correct_answer": "100",
+        "incorrect_answers": ["90", "110", "50"]
+      },
+      "hu": {
+        "question": "Hány Celsius-fokon forr a víz?",
+        "correct_answer": "100",
+        "incorrect_answers": ["90", "110", "50"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "How many colors are there in a rainbow?",
+        "correct_answer": "7",
+        "incorrect_answers": ["8", "9", "10"]
+      },
+      "hu": {
+        "question": "Hány színe van a szivárványnak?",
+        "correct_answer": "7",
+        "incorrect_answers": ["8", "9", "10"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "When did dinosaurs become extinct?",
+        "correct_answer": "65 million years ago",
+        "incorrect_answers": [
+          "20 million years ago",
+          "Yesterday",
+          "65000 years ago"
+        ]
+      },
+      "hu": {
+        "question": "Mikor haltak ki a dinoszauruszok?",
+        "correct_answer": "65 millió éve",
+        "incorrect_answers": ["20 millió éve", "Tegnap", "65 ezer éve"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital of France?",
+        "correct_answer": "Paris",
+        "incorrect_answers": ["Berlin", "Rome", "Madrid"]
+      },
+      "hu": {
+        "question": "Mi Franciaország fővárosa?",
+        "correct_answer": "Párizs",
+        "incorrect_answers": ["Berlin", "Róma", "Madrid"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "How many days are there in a leap year?",
+        "correct_answer": "366",
+        "incorrect_answers": ["365", "364", "367"]
+      },
+      "hu": {
+        "question": "Hány nap van egy szökőévben?",
+        "correct_answer": "366",
+        "incorrect_answers": ["365", "364", "367"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for water?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["O2", "CO2", "H2"]
+      },
+      "hu": {
+        "question": "Mi a víz kémiai jele?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["O2", "CO2", "H2"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "William Shakespeare",
+        "incorrect_answers": ["Charles Dickens", "Jane Austen", "Mark Twain"]
+      },
+      "hu": {
+        "question": "Ki írta a 'Rómeó és Júlia' című művet?",
+        "correct_answer": "William Shakespeare",
+        "incorrect_answers": ["Charles Dickens", "Jane Austen", "Mark Twain"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the smallest planet in our solar system?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": ["Mars", "Venus", "Earth"]
+      },
+      "hu": {
+        "question": "Mi a Naprendszer legkisebb bolygója?",
+        "correct_answer": "Merkúr",
+        "incorrect_answers": ["Mars", "Vénusz", "Föld"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which color is associated with peace?",
+        "correct_answer": "White",
+        "incorrect_answers": ["Blue", "Green", "Yellow"]
+      },
+      "hu": {
+        "question": "Melyik színt társítják a békéhez?",
+        "correct_answer": "Fehér",
+        "incorrect_answers": ["Kék", "Zöld", "Sárga"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which ocean is the largest?",
+        "correct_answer": "Pacific Ocean",
+        "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+      },
+      "hu": {
+        "question": "Melyik óceán a legnagyobb?",
+        "correct_answer": "Csendes-óceán",
+        "incorrect_answers": ["Atlanti-óceán", "Indiai-óceán", "Jeges-óceán"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the name of the fairy in Peter Pan?",
+        "correct_answer": "Tinkerbell",
+        "incorrect_answers": ["Cinderella", "Ariel", "Belle"]
+      },
+      "hu": {
+        "question": "Mi a neve a tündérnek a Pán Péterben?",
+        "correct_answer": "Csingiling",
+        "incorrect_answers": ["Hamupipőke", "Ariel", "Belle"]
+      }
+    }
+  }
+]

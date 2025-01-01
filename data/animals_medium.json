@@ -1,0 +1,330 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Cashmere is the wool from which kind of animal?",
+        "correct_answer": "Goat",
+        "incorrect_answers": ["Sheep", "Camel", "Llama"]
+      },
+      "hu": {
+        "question": "A kasmírgyapjút milyen állat szőréből készítik?",
+        "correct_answer": "Kecske",
+        "incorrect_answers": ["Birka", "Teve", "Láma"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How long can a cockroach live without its head?",
+        "correct_answer": "Up to a week",
+        "incorrect_answers": ["One day", "Two weeks", "A month"]
+      },
+      "hu": {
+        "question": "Meddig élhet egy csótány a feje nélkül?",
+        "correct_answer": "Akár egy hétig",
+        "incorrect_answers": ["Egy napig", "Két hétig", "Egy hónapig"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which mammal has the longest gestation period?",
+        "correct_answer": "Elephant",
+        "incorrect_answers": ["Giraffe", "Whale", "Horse"]
+      },
+      "hu": {
+        "question": "Melyik emlősnek van a leghosszabb vemhességi ideje?",
+        "correct_answer": "Elefánt",
+        "incorrect_answers": ["Zsiráf", "Bálna", "Ló"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the largest species of shark?",
+        "correct_answer": "Whale Shark",
+        "incorrect_answers": [
+          "Great White Shark",
+          "Hammerhead Shark",
+          "Tiger Shark"
+        ]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb cápafaj?",
+        "correct_answer": "Cetcápa",
+        "incorrect_answers": ["Nagy fehér cápa", "Pörölycápa", "Tigriscápa"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "correct_answer": "Pan troglodytes",
+        "incorrect_answers": ["Gorilla gorilla", "Pan paniscus", "Panthera leo"]
+      },
+      "hu": {
+        "question": "Mi a tudományos neve a közönséges csimpáznak?",
+        "correct_answer": "Pan troglodytes",
+        "incorrect_answers": ["Gorilla gorilla", "Pan paniscus", "Panthera leo"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What type of animal is a 'dugong'?",
+        "correct_answer": "Marine Mammal",
+        "incorrect_answers": ["Reptile", "Fish", "Bird"]
+      },
+      "hu": {
+        "question": "Milyen állat a 'dugong'?",
+        "correct_answer": "Tengeri emlős",
+        "incorrect_answers": ["Hüllő", "Hal", "Madár"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How do frogs drink water?",
+        "correct_answer": "Through their skin",
+        "incorrect_answers": [
+          "Using their tongue",
+          "Through their mouth",
+          "Via gills"
+        ]
+      },
+      "hu": {
+        "question": "Hogyan isznak a békák vizet?",
+        "correct_answer": "A bőrükön keresztül",
+        "incorrect_answers": [
+          "A nyelvükkel",
+          "A szájukon keresztül",
+          "Kopoltyúkon keresztül"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which bird is known for its elaborate mating dance?",
+        "correct_answer": "Bird of Paradise",
+        "incorrect_answers": ["Peacock", "Flamingo", "Albatross"]
+      },
+      "hu": {
+        "question": "Melyik madár híres a bonyolult udvarlótáncáról?",
+        "correct_answer": "Paradicsommadár",
+        "incorrect_answers": ["Páva", "Flamingó", "Albatrosz"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the primary purpose of a cat's whiskers?",
+        "correct_answer": "To sense surroundings",
+        "incorrect_answers": ["For balance", "For hunting", "For communication"]
+      },
+      "hu": {
+        "question": "Mi a macskák bajuszának fő funkciója?",
+        "correct_answer": "A környezet érzékelése",
+        "incorrect_answers": [
+          "Az egyensúlyozás",
+          "A vadászat",
+          "A kommunikáció"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal can sleep for up to three years?",
+        "correct_answer": "Snail",
+        "incorrect_answers": ["Tortoise", "Sloth", "Frog"]
+      },
+      "hu": {
+        "question": "Melyik állat képes akár három évig aludni?",
+        "correct_answer": "Csiga",
+        "incorrect_answers": ["Teknős", "Lajhár", "Béka"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the main food source for bats?",
+        "correct_answer": "Insects",
+        "incorrect_answers": ["Fruits", "Nectar", "Small Fish"]
+      },
+      "hu": {
+        "question": "Mi a denevérek fő tápláléka?",
+        "correct_answer": "Rovarok",
+        "incorrect_answers": ["Gyümölcsök", "Nektár", "Kis halak"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which animal has the thickest fur in the animal kingdom?",
+        "correct_answer": "Sea Otter",
+        "incorrect_answers": ["Polar Bear", "Wolf", "Beaver"]
+      },
+      "hu": {
+        "question": "Melyik állatnak van a legvastagabb szőrzete az állatvilágban?",
+        "correct_answer": "Tengeri vidra",
+        "incorrect_answers": ["Jegesmedve", "Farkas", "Hód"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the average lifespan of a domestic cat?",
+        "correct_answer": "15 years",
+        "incorrect_answers": ["10 years", "20 years", "25 years"]
+      },
+      "hu": {
+        "question": "Mennyi egy házimacska átlagos élettartama?",
+        "correct_answer": "15 év",
+        "incorrect_answers": ["10 év", "20 év", "25 év"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the largest living species of lizard?",
+        "correct_answer": "Komodo Dragon",
+        "incorrect_answers": ["Iguana", "Monitor Lizard", "Gecko"]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb élő gyíkfaj?",
+        "correct_answer": "Komodói sárkány",
+        "incorrect_answers": ["Leguán", "Varánusz", "Gekkó"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "How many humps does a Bactrian camel have?",
+        "correct_answer": "Two",
+        "incorrect_answers": ["One", "Three", "None"]
+      },
+      "hu": {
+        "question": "Hány púpja van a baktrián tevének?",
+        "correct_answer": "Kettő",
+        "incorrect_answers": ["Egy", "Három", "Egy sem"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the gestation period of an African elephant?",
+        "correct_answer": "22 months",
+        "incorrect_answers": ["12 months", "18 months", "24 months"]
+      },
+      "hu": {
+        "question": "Mennyi ideig tart az afrikai elefánt vemhessége?",
+        "correct_answer": "22 hónap",
+        "incorrect_answers": ["12 hónap", "18 hónap", "24 hónap"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the largest species of penguin?",
+        "correct_answer": "Emperor Penguin",
+        "incorrect_answers": [
+          "King Penguin",
+          "Adelie Penguin",
+          "Gentoo Penguin"
+        ]
+      },
+      "hu": {
+        "question": "Melyik a legnagyobb pingvinfaj?",
+        "correct_answer": "Császárpingvin",
+        "incorrect_answers": [
+          "Királypingvin",
+          "Adélie-pingvin",
+          "Gentoo-pingvin"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "What is the average lifespan of a lion in the wild?",
+        "correct_answer": "12-16 years",
+        "incorrect_answers": ["8-10 years", "20-25 years", "5-8 years"]
+      },
+      "hu": {
+        "question": "Mennyi egy oroszlán átlagos élettartama a vadonban?",
+        "correct_answer": "12-16 év",
+        "incorrect_answers": ["8-10 év", "20-25 év", "5-8 év"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Animals",
+    "translations": {
+      "en": {
+        "question": "Which mammal has the longest lifespan?",
+        "correct_answer": "Bowhead Whale",
+        "incorrect_answers": ["Elephant", "Blue Whale", "Giant Tortoise"]
+      },
+      "hu": {
+        "question": "Melyik emlősnek a leghosszabb az élettartama?",
+        "correct_answer": "Grönlandi bálna",
+        "incorrect_answers": ["Elefánt", "Kék bálna", "Óriásteknős"]
+      }
+    }
+  }
+]

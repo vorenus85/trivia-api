@@ -1,0 +1,274 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport is known as 'the king of sports'?",
+        "correct_answer": "Football",
+        "incorrect_answers": ["Basketball", "Tennis", "Baseball"]
+      },
+      "hu": {
+        "question": "Melyik sportot nevezik 'a sportok királyának'?",
+        "correct_answer": "Foci",
+        "incorrect_answers": ["Kosárlabda", "Tenisz", "Baseball"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport would you perform a slam dunk?",
+        "correct_answer": "Basketball",
+        "incorrect_answers": ["Football", "Tennis", "Volleyball"]
+      },
+      "hu": {
+        "question": "Melyik sportban hajtanál végre egy slam dunkot?",
+        "correct_answer": "Kosárlabda",
+        "incorrect_answers": ["Foci", "Tenisz", "Röplabda"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "correct_answer": "France",
+        "incorrect_answers": ["Germany", "Brazil", "Argentina"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a FIFA világbajnokságot 2018-ban?",
+        "correct_answer": "Franciaország",
+        "incorrect_answers": ["Németország", "Brazília", "Argentína"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "What is the maximum score in a single game of ten-pin bowling?",
+        "correct_answer": "300",
+        "incorrect_answers": ["250", "100", "400"]
+      },
+      "hu": {
+        "question": "Mi a legmagasabb pontszám egy tízpin-es bowling játékban?",
+        "correct_answer": "300",
+        "incorrect_answers": ["250", "100", "400"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country hosted the 2008 Summer Olympics?",
+        "correct_answer": "China",
+        "incorrect_answers": ["Greece", "USA", "Australia"]
+      },
+      "hu": {
+        "question": "Melyik ország rendezte a 2008-as nyári olimpiát?",
+        "correct_answer": "Kína",
+        "incorrect_answers": ["Görögország", "USA", "Ausztrália"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "What is the primary ball used in the sport of tennis?",
+        "correct_answer": "Tennis ball",
+        "incorrect_answers": ["Football", "Basketball", "Volleyball"]
+      },
+      "hu": {
+        "question": "Mi a fő labda a tenisz sportban?",
+        "correct_answer": "Teniszlabda",
+        "incorrect_answers": ["Focilabda", "Kosárlabda", "Röplabda"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport involves hitting a shuttlecock over a net?",
+        "correct_answer": "Badminton",
+        "incorrect_answers": ["Tennis", "Volleyball", "Ping pong"]
+      },
+      "hu": {
+        "question": "Melyik sportban ütnek egy tollaslabdát a háló fölé?",
+        "correct_answer": "Tollaslabda",
+        "incorrect_answers": ["Tenisz", "Röplabda", "Ping pong"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport would you find a 'green jacket' awarded to the winner?",
+        "correct_answer": "Golf",
+        "incorrect_answers": ["Tennis", "Formula 1", "Football"]
+      },
+      "hu": {
+        "question": "Melyik sportban adják a 'zöld kabátot' a győztesnek?",
+        "correct_answer": "Golf",
+        "incorrect_answers": ["Tenisz", "Forma-1", "Foci"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport involves jumping over hurdles?",
+        "correct_answer": "Hurdles",
+        "incorrect_answers": ["High jump", "Pole vault", "Long jump"]
+      },
+      "hu": {
+        "question": "Melyik sportban ugranak át akadályokat?",
+        "correct_answer": "Akadályfutás",
+        "incorrect_answers": ["Magasugrás", "Rúdugrás", "Távolugrás"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country is famous for inventing rugby?",
+        "correct_answer": "England",
+        "incorrect_answers": ["Australia", "New Zealand", "South Africa"]
+      },
+      "hu": {
+        "question": "Melyik ország híres a rúgby feltalálásáról?",
+        "correct_answer": "Anglia",
+        "incorrect_answers": ["Ausztrália", "Új-Zéland", "Dél-Afrika"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport is associated with the Stanley Cup?",
+        "correct_answer": "Ice hockey",
+        "incorrect_answers": ["Football", "Basketball", "Baseball"]
+      },
+      "hu": {
+        "question": "Melyik sporthoz kapcsolódik a Stanley Kupa?",
+        "correct_answer": "Jégkorong",
+        "incorrect_answers": ["Foci", "Kosárlabda", "Baseball"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport would you perform a 'perfect 10'?",
+        "correct_answer": "Gymnastics",
+        "incorrect_answers": ["Tennis", "Basketball", "Boxing"]
+      },
+      "hu": {
+        "question": "Melyik sportban hajtanál végre egy 'tökéletes 10-est'?",
+        "correct_answer": "Tornász",
+        "incorrect_answers": ["Tenisz", "Kosárlabda", "Boksz"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "What is the term for a score of zero in tennis?",
+        "correct_answer": "Love",
+        "incorrect_answers": ["Nil", "Zero", "Goose egg"]
+      },
+      "hu": {
+        "question": "Mi a kifejezés a nulla pontért teniszezésben?",
+        "correct_answer": "Love",
+        "incorrect_answers": ["Nil", "Nulla", "Goose egg"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport is known for its famous race, 'The Tour de France'?",
+        "correct_answer": "Cycling",
+        "incorrect_answers": ["Running", "Formula 1", "Swimming"]
+      },
+      "hu": {
+        "question": "Melyik sport híres a 'Tour de France' versenyéről?",
+        "correct_answer": "Kerékpározás",
+        "incorrect_answers": ["Futás", "Forma-1", "Úszás"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport would you perform a 'kickflip'?",
+        "correct_answer": "Skateboarding",
+        "incorrect_answers": ["Snowboarding", "Surfing", "BMX biking"]
+      },
+      "hu": {
+        "question": "Melyik sportban hajtanál végre egy 'kickflip'-et?",
+        "correct_answer": "Skateboardozás",
+        "incorrect_answers": ["Hószánkózás", "Szörfözés", "BMX biciklizés"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "What sport does Usain Bolt compete in?",
+        "correct_answer": "Athletics",
+        "incorrect_answers": ["Football", "Swimming", "Basketball"]
+      },
+      "hu": {
+        "question": "Melyik sportágban versenyez Usain Bolt?",
+        "correct_answer": "Atlétika",
+        "incorrect_answers": ["Foci", "Úszás", "Kosárlabda"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which sport is often called 'the beautiful game'?",
+        "correct_answer": "Football",
+        "incorrect_answers": ["Basketball", "Tennis", "Golf"]
+      },
+      "hu": {
+        "question": "Melyik sportot hívják gyakran 'a gyönyörű játéknak'?",
+        "correct_answer": "Foci",
+        "incorrect_answers": ["Kosárlabda", "Tenisz", "Golf"]
+      }
+    }
+  }
+]

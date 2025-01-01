@@ -1,0 +1,466 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "John Adams"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt az Amerikai Egyesült Államok első elnöke?",
+        "correct_answer": "George Washington",
+        "incorrect_answers": [
+          "Abraham Lincoln",
+          "Thomas Jefferson",
+          "John Adams"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "In which year did World War II begin?",
+        "correct_answer": "1939",
+        "incorrect_answers": ["1914", "1945", "1929"]
+      },
+      "hu": {
+        "question": "Melyik évben kezdődött a második világháború?",
+        "correct_answer": "1939",
+        "incorrect_answers": ["1914", "1945", "1929"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+        "correct_answer": "Mayflower",
+        "incorrect_answers": ["Santa Maria", "Beagle", "Endeavour"]
+      },
+      "hu": {
+        "question": "Mi volt a neve annak a hajónak, amely 1620-ban Amerikába szállította a zarándokokat?",
+        "correct_answer": "Mayflower",
+        "incorrect_answers": ["Santa Maria", "Beagle", "Endeavour"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first human to step on the Moon?",
+        "correct_answer": "Neil Armstrong",
+        "incorrect_answers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+      },
+      "hu": {
+        "question": "Ki volt az első ember, aki a Holdra lépett?",
+        "correct_answer": "Neil Armstrong",
+        "incorrect_answers": ["Buzz Aldrin", "Jurij Gagarin", "Michael Collins"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What wall fell in 1989, symbolizing the end of the Cold War?",
+        "correct_answer": "Berlin Wall",
+        "incorrect_answers": [
+          "Great Wall of China",
+          "Hadrian's Wall",
+          "Iron Curtain"
+        ]
+      },
+      "hu": {
+        "question": "Melyik fal omlott le 1989-ben, a hidegháború végét jelképezve?",
+        "correct_answer": "Berlini fal",
+        "incorrect_answers": ["Kínai nagy fal", "Hadrianus fala", "Vasfüggöny"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which empire was ruled by Julius Caesar?",
+        "correct_answer": "Roman Empire",
+        "incorrect_answers": [
+          "Greek Empire",
+          "Byzantine Empire",
+          "Persian Empire"
+        ]
+      },
+      "hu": {
+        "question": "Melyik birodalmat uralta Julius Caesar?",
+        "correct_answer": "Római Birodalom",
+        "incorrect_answers": [
+          "Görög Birodalom",
+          "Bizánci Birodalom",
+          "Perzsa Birodalom"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who discovered America in 1492?",
+        "correct_answer": "Christopher Columbus",
+        "incorrect_answers": [
+          "Vasco da Gama",
+          "Marco Polo",
+          "Ferdinand Magellan"
+        ]
+      },
+      "hu": {
+        "question": "Ki fedezte fel Amerikát 1492-ben?",
+        "correct_answer": "Kolumbusz Kristóf",
+        "incorrect_answers": [
+          "Vasco da Gama",
+          "Marco Polo",
+          "Ferdinánd Magellán"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the Titanic?",
+        "correct_answer": "A ship",
+        "incorrect_answers": ["A plane", "A train", "A submarine"]
+      },
+      "hu": {
+        "question": "Mi volt a Titanic?",
+        "correct_answer": "Egy hajó",
+        "incorrect_answers": ["Egy repülő", "Egy vonat", "Egy tengeralattjáró"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": ["Theresa May", "Angela Merkel", "Indira Gandhi"]
+      },
+      "hu": {
+        "question": "Ki volt az Egyesült Királyság első női miniszterelnöke?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": ["Theresa May", "Angela Merkel", "Indira Gandhi"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What year was the Declaration of Independence signed?",
+        "correct_answer": "1776",
+        "incorrect_answers": ["1492", "1865", "1783"]
+      },
+      "hu": {
+        "question": "Melyik évben írták alá a Függetlenségi Nyilatkozatot?",
+        "correct_answer": "1776",
+        "incorrect_answers": ["1492", "1865", "1783"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the leader of Germany during World War II?",
+        "correct_answer": "Adolf Hitler",
+        "incorrect_answers": [
+          "Winston Churchill",
+          "Joseph Stalin",
+          "Franklin D. Roosevelt"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt Németország vezetője a második világháború alatt?",
+        "correct_answer": "Adolf Hitler",
+        "incorrect_answers": [
+          "Winston Churchill",
+          "Joszif Sztálin",
+          "Franklin D. Roosevelt"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What country gifted the Statue of Liberty to the United States?",
+        "correct_answer": "France",
+        "incorrect_answers": ["Italy", "United Kingdom", "Germany"]
+      },
+      "hu": {
+        "question": "Melyik ország ajándékozta az Egyesült Államoknak a Szabadság-szobrot?",
+        "correct_answer": "Franciaország",
+        "incorrect_answers": [
+          "Olaszország",
+          "Egyesült Királyság",
+          "Németország"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What ancient civilization built the Pyramids of Giza?",
+        "correct_answer": "Egyptians",
+        "incorrect_answers": ["Mayans", "Romans", "Greeks"]
+      },
+      "hu": {
+        "question": "Melyik ókori civilizáció építette a gízai piramisokat?",
+        "correct_answer": "Egyiptomiak",
+        "incorrect_answers": ["Maják", "Rómaiak", "Görögök"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who discovered penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": ["Marie Curie", "Louis Pasteur", "Thomas Edison"]
+      },
+      "hu": {
+        "question": "Ki fedezte fel a penicillint?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": ["Marie Curie", "Louis Pasteur", "Thomas Edison"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which Roman Emperor famously fiddled while Rome burned?",
+        "correct_answer": "Nero",
+        "incorrect_answers": ["Julius Caesar", "Augustus", "Tiberius"]
+      },
+      "hu": {
+        "question": "Melyik római császár „hegedült”, miközben Róma lángolt?",
+        "correct_answer": "Néró",
+        "incorrect_answers": ["Julius Caesar", "Augustus", "Tiberius"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": ["Leonardo da Vinci", "Raphael", "Donatello"]
+      },
+      "hu": {
+        "question": "Ki festette ki a Sixtus-kápolna mennyezetét?",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": ["Leonardo da Vinci", "Raffaello", "Donatello"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the name of the first successful English settlement in America?",
+        "correct_answer": "Jamestown",
+        "incorrect_answers": ["Plymouth", "Roanoke", "Salem"]
+      },
+      "hu": {
+        "question": "Mi volt az első sikeres angol település neve Amerikában?",
+        "correct_answer": "Jamestown",
+        "incorrect_answers": ["Plymouth", "Roanoke", "Salem"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was known as the 'Iron Lady'?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+          "Queen Elizabeth II",
+          "Angela Merkel",
+          "Indira Gandhi"
+        ]
+      },
+      "hu": {
+        "question": "Kit hívtak 'Vaslady'-nek?",
+        "correct_answer": "Margaret Thatcher",
+        "incorrect_answers": [
+          "II. Erzsébet királynő",
+          "Angela Merkel",
+          "Indira Gandhi"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What city hosted the first modern Olympic Games in 1896?",
+        "correct_answer": "Athens",
+        "incorrect_answers": ["Paris", "London", "Rome"]
+      },
+      "hu": {
+        "question": "Melyik város adott otthont az első modern olimpiai játékoknak 1896-ban?",
+        "correct_answer": "Athén",
+        "incorrect_answers": ["Párizs", "London", "Róma"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first man to fly across the Atlantic Ocean solo?",
+        "correct_answer": "Charles Lindbergh",
+        "incorrect_answers": [
+          "Amelia Earhart",
+          "Howard Hughes",
+          "Orville Wright"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt az első ember, aki egyedül átrepülte az Atlanti-óceánt?",
+        "correct_answer": "Charles Lindbergh",
+        "incorrect_answers": [
+          "Amelia Earhart",
+          "Howard Hughes",
+          "Orville Wright"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which country was Nelson Mandela the president of?",
+        "correct_answer": "South Africa",
+        "incorrect_answers": ["Kenya", "Nigeria", "Egypt"]
+      },
+      "hu": {
+        "question": "Melyik ország elnöke volt Nelson Mandela?",
+        "correct_answer": "Dél-Afrika",
+        "incorrect_answers": ["Kenya", "Nigéria", "Egyiptom"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What year did the Titanic sink?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1920", "1915"]
+      },
+      "hu": {
+        "question": "Melyik évben süllyedt el a Titanic?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1920", "1915"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which ancient civilization invented writing?",
+        "correct_answer": "Sumerians",
+        "incorrect_answers": ["Egyptians", "Romans", "Greeks"]
+      },
+      "hu": {
+        "question": "Melyik ókori civilizáció találta fel az írást?",
+        "correct_answer": "Sumérok",
+        "incorrect_answers": ["Egyiptomiak", "Rómaiak", "Görögök"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the British Prime Minister during most of World War II?",
+        "correct_answer": "Winston Churchill",
+        "incorrect_answers": [
+          "Neville Chamberlain",
+          "Clement Attlee",
+          "Anthony Eden"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt a brit miniszterelnök a második világháború nagy részében?",
+        "correct_answer": "Winston Churchill",
+        "incorrect_answers": [
+          "Neville Chamberlain",
+          "Clement Attlee",
+          "Anthony Eden"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What is the name of the first artificial satellite sent into space?",
+        "correct_answer": "Sputnik 1",
+        "incorrect_answers": ["Explorer 1", "Luna 1", "Vostok 1"]
+      },
+      "hu": {
+        "question": "Mi volt az első mesterséges műhold neve, amit az űrbe küldtek?",
+        "correct_answer": "Szputnyik-1",
+        "incorrect_answers": ["Explorer 1", "Luna 1", "Vosztok 1"]
+      }
+    }
+  }
+]

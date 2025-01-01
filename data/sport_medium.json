@@ -1,0 +1,306 @@
+[
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the 2016 UEFA European Championship?",
+        "correct_answer": "Portugal",
+        "incorrect_answers": ["France", "Germany", "Spain"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a 2016-os UEFA Európa-bajnokságot?",
+        "correct_answer": "Portugália",
+        "incorrect_answers": ["Franciaország", "Németország", "Spanyolország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who holds the record for the most goals scored in the Premier League?",
+        "correct_answer": "Alan Shearer",
+        "incorrect_answers": ["Wayne Rooney", "Sergio Agüero", "Harry Kane"]
+      },
+      "hu": {
+        "question": "Ki tartja a Premier League-ben szerzett legnagyobb gólrekordot?",
+        "correct_answer": "Alan Shearer",
+        "incorrect_answers": ["Wayne Rooney", "Sergio Agüero", "Harry Kane"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country has won the most Rugby World Cups?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": ["South Africa", "Australia", "England"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a legtöbb Rögbi Világbajnokságot?",
+        "correct_answer": "Új-Zéland",
+        "incorrect_answers": ["Dél-Afrika", "Ausztrália", "Anglia"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which year did Michael Phelps win 8 gold medals in a single Olympic Games?",
+        "correct_answer": "2008",
+        "incorrect_answers": ["2004", "2012", "2016"]
+      },
+      "hu": {
+        "question": "Melyik évben nyert Michael Phelps 8 aranyérmet egyetlen olimpiai játékokon?",
+        "correct_answer": "2008",
+        "incorrect_answers": ["2004", "2012", "2016"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which tennis player is known as 'The King of Clay'?",
+        "correct_answer": "Rafael Nadal",
+        "incorrect_answers": ["Roger Federer", "Novak Djokovic", "Pete Sampras"]
+      },
+      "hu": {
+        "question": "Melyik teniszezőt neveznek 'A salak Királyának'?",
+        "correct_answer": "Rafael Nadal",
+        "incorrect_answers": ["Roger Federer", "Novak Djokovic", "Pete Sampras"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the first ever FIFA World Cup in 1930?",
+        "correct_answer": "Uruguay",
+        "incorrect_answers": ["Argentina", "Brazil", "Germany"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte az első FIFA világbajnokságot 1930-ban?",
+        "correct_answer": "Uruguay",
+        "incorrect_answers": ["Argentína", "Brazília", "Németország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which American football team won the most Super Bowls in the 1990s?",
+        "correct_answer": "San Francisco 49ers",
+        "incorrect_answers": [
+          "Dallas Cowboys",
+          "Pittsburgh Steelers",
+          "Green Bay Packers"
+        ]
+      },
+      "hu": {
+        "question": "Melyik amerikai futballcsapat nyerte a legtöbb Super Bowlt az 1990-es években?",
+        "correct_answer": "San Francisco 49ers",
+        "incorrect_answers": [
+          "Dallas Cowboys",
+          "Pittsburgh Steelers",
+          "Green Bay Packers"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport do teams compete for the Stanley Cup?",
+        "correct_answer": "Ice Hockey",
+        "incorrect_answers": ["Basketball", "Baseball", "Football"]
+      },
+      "hu": {
+        "question": "Melyik sportágban versenyeznek a csapatok a Stanley Kupáért?",
+        "correct_answer": "Jégkorong",
+        "incorrect_answers": ["Kosárlabda", "Baseball", "Foci"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who is the all-time top scorer in NBA history?",
+        "correct_answer": "Kareem Abdul-Jabbar",
+        "incorrect_answers": ["Michael Jordan", "LeBron James", "Kobe Bryant"]
+      },
+      "hu": {
+        "question": "Ki a legjobb gólkirály az NBA történetében?",
+        "correct_answer": "Kareem Abdul-Jabbar",
+        "incorrect_answers": ["Michael Jordan", "LeBron James", "Kobe Bryant"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country is the birthplace of the sport of basketball?",
+        "correct_answer": "United States",
+        "incorrect_answers": ["Canada", "Germany", "France"]
+      },
+      "hu": {
+        "question": "Melyik országban született a kosárlabda sportág?",
+        "correct_answer": "Egyesült Államok",
+        "incorrect_answers": ["Kanada", "Németország", "Franciaország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the 2014 FIFA World Cup?",
+        "correct_answer": "Germany",
+        "incorrect_answers": ["Brazil", "Argentina", "Spain"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a 2014-es FIFA világbajnokságot?",
+        "correct_answer": "Németország",
+        "incorrect_answers": ["Brazília", "Argentína", "Spanyolország"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which Formula 1 driver won the most championships in the 2000s?",
+        "correct_answer": "Michael Schumacher",
+        "incorrect_answers": [
+          "Fernando Alonso",
+          "Kimi Räikkönen",
+          "Lewis Hamilton"
+        ]
+      },
+      "hu": {
+        "question": "Melyik Forma-1-es versenyző nyerte a legtöbb bajnoki címet a 2000-es években?",
+        "correct_answer": "Michael Schumacher",
+        "incorrect_answers": [
+          "Fernando Alonso",
+          "Kimi Räikkönen",
+          "Lewis Hamilton"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which tennis player has the most Grand Slam singles titles in men's tennis?",
+        "correct_answer": "Rafael Nadal",
+        "incorrect_answers": ["Roger Federer", "Novak Djokovic", "Pete Sampras"]
+      },
+      "hu": {
+        "question": "Melyik teniszezőnek van a legtöbb Grand Slam egyéni címe férfi teniszezők között?",
+        "correct_answer": "Rafael Nadal",
+        "incorrect_answers": ["Roger Federer", "Novak Djokovic", "Pete Sampras"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which sport would you perform a 'perfect 300'?",
+        "correct_answer": "Bowling",
+        "incorrect_answers": ["Snooker", "Tennis", "Baseball"]
+      },
+      "hu": {
+        "question": "Melyik sportban hajtasz végre egy 'tökéletes 300'-at?",
+        "correct_answer": "Bowling",
+        "incorrect_answers": ["Snooker", "Tenisz", "Baseball"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the most gold medals at the 2008 Summer Olympics?",
+        "correct_answer": "China",
+        "incorrect_answers": ["USA", "Russia", "Australia"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a legtöbb aranyérmet a 2008-as nyári olimpián?",
+        "correct_answer": "Kína",
+        "incorrect_answers": ["USA", "Oroszország", "Ausztrália"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which football team has the most UEFA Champions League titles?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["Barcelona", "AC Milan", "Liverpool"]
+      },
+      "hu": {
+        "question": "Melyik futballcsapatnak van a legtöbb UEFA Bajnokok Ligája címe?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["Barcelona", "AC Milan", "Liverpool"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country did the 2016 Olympic Games take place in?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": ["China", "United Kingdom", "Australia"]
+      },
+      "hu": {
+        "question": "Melyik országban rendezték a 2016-os olimpiai játékokat?",
+        "correct_answer": "Brazília",
+        "incorrect_answers": ["Kína", "Egyesült Királyság", "Ausztrália"]
+      }
+    }
+  },
+  {
+    "difficulty": "medium",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "In which city were the 2000 Summer Olympics held?",
+        "correct_answer": "Sydney",
+        "incorrect_answers": ["Athens", "Atlanta", "London"]
+      },
+      "hu": {
+        "question": "Melyik városban rendezték a 2000-es nyári olimpiát?",
+        "correct_answer": "Sydney",
+        "incorrect_answers": ["Athén", "Atlanta", "London"]
+      }
+    }
+  }
+]

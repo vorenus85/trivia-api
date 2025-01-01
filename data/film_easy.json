@@ -1,0 +1,302 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who played the character of Jack Dawson in the 1997 film Titanic?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": ["Brad Pitt", "Johnny Depp", "Matt Damon"]
+      },
+      "hu": {
+        "question": "Ki alakította Jack Dawson szerepét az 1997-es Titanic című filmben?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": ["Brad Pitt", "Johnny Depp", "Matt Damon"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which actor played Tony Stark (Iron Man) in the Marvel Cinematic Universe?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo"]
+      },
+      "hu": {
+        "question": "Melyik színész játszotta Tony Starkot (Vasember) a Marvel Filmes Univerzumban?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": ["Chris Hemsworth", "Chris Evans", "Mark Ruffalo"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What is the name of the fictional wizarding school in the Harry Potter series?",
+        "correct_answer": "Hogwarts",
+        "incorrect_answers": ["Durmstrang", "Beauxbatons", "Ilvermorny"]
+      },
+      "hu": {
+        "question": "Mi a neve a Harry Potter sorozatban szereplő varázslóiskolának?",
+        "correct_answer": "Hogwarts",
+        "incorrect_answers": ["Durmstrang", "Beauxbatons", "Ilvermorny"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which movie did the character Darth Vader first appear?",
+        "correct_answer": "Star Wars: A New Hope",
+        "incorrect_answers": [
+          "Star Wars: The Empire Strikes Back",
+          "Star Wars: Return of the Jedi",
+          "Star Wars: The Phantom Menace"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmben tűnt fel először Darth Vader karaktere?",
+        "correct_answer": "Star Wars: Egy új remény",
+        "incorrect_answers": [
+          "Star Wars: A birodalom visszavág",
+          "Star Wars: A Jedi visszatér",
+          "Star Wars: Baljós árnyak"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who is the lead actor in the 2008 film Iron Man?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": [
+          "Chris Hemsworth",
+          "Tom Hiddleston",
+          "Chris Evans"
+        ]
+      },
+      "hu": {
+        "question": "Ki a főszereplője a 2008-as Vasember című filmnek?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": [
+          "Chris Hemsworth",
+          "Tom Hiddleston",
+          "Chris Evans"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which animated film features a fish named Nemo?",
+        "correct_answer": "Finding Nemo",
+        "incorrect_answers": [
+          "Shark Tale",
+          "The Little Mermaid",
+          "Monsters, Inc."
+        ]
+      },
+      "hu": {
+        "question": "Melyik animációs filmben szerepel egy Nemo nevű hal?",
+        "correct_answer": "Némó nyomában",
+        "incorrect_answers": ["Cápamesék", "A kis hableány", "Szörny Rt."]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What is the name of the fictional city where Batman lives?",
+        "correct_answer": "Gotham City",
+        "incorrect_answers": ["Metropolis", "Star City", "Central City"]
+      },
+      "hu": {
+        "question": "Mi a neve a fiktív városnak, ahol Batman él?",
+        "correct_answer": "Gotham City",
+        "incorrect_answers": ["Metropolis", "Star City", "Central City"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film series features a character called the Joker?",
+        "correct_answer": "Batman",
+        "incorrect_answers": ["Spider-Man", "Superman", "Iron Man"]
+      },
+      "hu": {
+        "question": "Melyik film sorozatban szerepel a Joker nevű karakter?",
+        "correct_answer": "Batman",
+        "incorrect_answers": ["Pókember", "Superman", "Vasember"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who directed the movie Titanic?",
+        "correct_answer": "James Cameron",
+        "incorrect_answers": [
+          "Steven Spielberg",
+          "Martin Scorsese",
+          "Quentin Tarantino"
+        ]
+      },
+      "hu": {
+        "question": "Ki rendezte a Titanic című filmet?",
+        "correct_answer": "James Cameron",
+        "incorrect_answers": [
+          "Steven Spielberg",
+          "Martin Scorsese",
+          "Quentin Tarantino"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which animated movie features a character named Simba?",
+        "correct_answer": "The Lion King",
+        "incorrect_answers": ["Zootopia", "Tarzan", "Frozen"]
+      },
+      "hu": {
+        "question": "Melyik animációs filmben szerepel Simba nevű karakter?",
+        "correct_answer": "Az oroszlánkirály",
+        "incorrect_answers": ["Zootropolis", "Tarzan", "Jégvarázs"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which famous actor played the role of Forrest Gump?",
+        "correct_answer": "Tom Hanks",
+        "incorrect_answers": ["Johnny Depp", "Matt Damon", "Brad Pitt"]
+      },
+      "hu": {
+        "question": "Melyik híres színész játszotta Forrest Gump szerepét?",
+        "correct_answer": "Tom Hanks",
+        "incorrect_answers": ["Johnny Depp", "Matt Damon", "Brad Pitt"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which TV show does a character named Sheldon Cooper appear?",
+        "correct_answer": "The Big Bang Theory",
+        "incorrect_answers": ["Friends", "How I Met Your Mother", "The Office"]
+      },
+      "hu": {
+        "question": "Melyik tévésorozatban szerepel Sheldon Cooper nevű karakter?",
+        "correct_answer": "Agymenők",
+        "incorrect_answers": [
+          "Jóbarátok",
+          "Hogyan találkoztam anyátokkal",
+          "A hivatal"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which superhero is played by Chris Hemsworth?",
+        "correct_answer": "Thor",
+        "incorrect_answers": ["Iron Man", "Captain America", "Spider-Man"]
+      },
+      "hu": {
+        "question": "Melyik szuperhőst játsza Chris Hemsworth?",
+        "correct_answer": "Thor",
+        "incorrect_answers": ["Vasember", "Amerikai kapitány", "Pókember"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film is set in the fictional world of Pandora?",
+        "correct_answer": "Avatar",
+        "incorrect_answers": ["Titanic", "Star Wars", "Jurassic Park"]
+      },
+      "hu": {
+        "question": "Melyik film játszódik a fiktív Pandora világában?",
+        "correct_answer": "Avatar",
+        "incorrect_answers": ["Titanic", "Star Wars", "Jurassic Park"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which movie does a character named Luke Skywalker appear?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": [
+          "The Lord of the Rings",
+          "Harry Potter",
+          "Indiana Jones"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmben szerepel Luke Skywalker nevű karakter?",
+        "correct_answer": "Star Wars",
+        "incorrect_answers": ["A gyűrűk ura", "Harry Potter", "Indiana Jones"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which movie features a character called Elsa who has magical ice powers?",
+        "correct_answer": "Frozen",
+        "incorrect_answers": [
+          "Cinderella",
+          "Beauty and the Beast",
+          "The Little Mermaid"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmben szerepel Elsa nevű karakter, akinek varázslatos jégereje van?",
+        "correct_answer": "Jégvarázs",
+        "incorrect_answers": [
+          "Hamupipőke",
+          "Szépség és a szörnyeteg",
+          "A kis hableány"
+        ]
+      }
+    }
+  }
+]

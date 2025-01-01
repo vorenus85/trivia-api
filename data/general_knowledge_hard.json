@@ -1,0 +1,426 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which scientist is credited with the discovery of penicillin?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": ["Marie Curie", "Louis Pasteur", "Joseph Lister"]
+      },
+      "hu": {
+        "question": "Melyik tudós nevéhez fűződik a penicillin felfedezése?",
+        "correct_answer": "Alexander Fleming",
+        "incorrect_answers": ["Marie Curie", "Louis Pasteur", "Joseph Lister"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the smallest country in the world by area?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+      },
+      "hu": {
+        "question": "Melyik a világ legkisebb területű országa?",
+        "correct_answer": "Vatikánváros",
+        "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which artist painted 'The Persistence of Memory'?",
+        "correct_answer": "Salvador Dalí",
+        "incorrect_answers": [
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Claude Monet"
+        ]
+      },
+      "hu": {
+        "question": "Melyik művész festette az 'Emlékezet állandósága' című festményt?",
+        "correct_answer": "Salvador Dalí",
+        "incorrect_answers": [
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Claude Monet"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which country has the most natural lakes?",
+        "correct_answer": "Canada",
+        "incorrect_answers": ["Russia", "United States", "Brazil"]
+      },
+      "hu": {
+        "question": "Melyik országban található a legtöbb természetes tó?",
+        "correct_answer": "Kanada",
+        "incorrect_answers": ["Oroszország", "Egyesült Államok", "Brazília"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the longest river in the world?",
+        "correct_answer": "Nile",
+        "incorrect_answers": ["Amazon", "Yangtze", "Mississippi"]
+      },
+      "hu": {
+        "question": "Mi a világ leghosszabb folyója?",
+        "correct_answer": "Nílus",
+        "incorrect_answers": ["Amazonas", "Jangce", "Mississippi"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the atomic number of gold?",
+        "correct_answer": "79",
+        "incorrect_answers": ["78", "80", "82"]
+      },
+      "hu": {
+        "question": "Mi az arany atomszáma?",
+        "correct_answer": "79",
+        "incorrect_answers": ["78", "80", "82"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which author wrote 'The Catcher in the Rye'?",
+        "correct_answer": "J.D. Salinger",
+        "incorrect_answers": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck"
+        ]
+      },
+      "hu": {
+        "question": "Ki írta a 'Zabhegyező' című könyvet?",
+        "correct_answer": "J.D. Salinger",
+        "incorrect_answers": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital of Mongolia?",
+        "correct_answer": "Ulaanbaatar",
+        "incorrect_answers": ["Astana", "Tashkent", "Bishkek"]
+      },
+      "hu": {
+        "question": "Mi Mongólia fővárosa?",
+        "correct_answer": "Ulánbátor",
+        "incorrect_answers": ["Asztana", "Taskent", "Biskek"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which planet has the most moons?",
+        "correct_answer": "Saturn",
+        "incorrect_answers": ["Jupiter", "Uranus", "Neptune"]
+      },
+      "hu": {
+        "question": "Melyik bolygónak van a legtöbb holdja?",
+        "correct_answer": "Szaturnusz",
+        "incorrect_answers": ["Jupiter", "Uránusz", "Neptunusz"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who developed the theory of relativity?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Niels Bohr", "Marie Curie"]
+      },
+      "hu": {
+        "question": "Ki fejlesztette ki a relativitáselméletet?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Niels Bohr", "Marie Curie"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the official language of Angola?",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": ["Spanish", "French", "Swahili"]
+      },
+      "hu": {
+        "question": "Mi Angola hivatalos nyelve?",
+        "correct_answer": "Portugál",
+        "incorrect_answers": ["Spanyol", "Francia", "Szuahéli"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which year did the Berlin Wall fall?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1987", "1990", "1985"]
+      },
+      "hu": {
+        "question": "Melyik évben omlott le a Berlini fal?",
+        "correct_answer": "1989",
+        "incorrect_answers": ["1987", "1990", "1985"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the main ingredient in the dish 'Bouillabaisse'?",
+        "correct_answer": "Fish",
+        "incorrect_answers": ["Chicken", "Pork", "Beef"]
+      },
+      "hu": {
+        "question": "Mi a 'Bouillabaisse' nevű étel fő összetevője?",
+        "correct_answer": "Hal",
+        "incorrect_answers": ["Csirke", "Sertés", "Marhahús"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which element has the chemical symbol 'Rn'?",
+        "correct_answer": "Radon",
+        "incorrect_answers": ["Ruthenium", "Rubidium", "Rhenium"]
+      },
+      "hu": {
+        "question": "Melyik elem vegyjele az 'Rn'?",
+        "correct_answer": "Radon",
+        "incorrect_answers": ["Ruthénium", "Rubídium", "Rénium"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the smallest unit of memory in a computer?",
+        "correct_answer": "Bit",
+        "incorrect_answers": ["Byte", "Kilobyte", "Nibble"]
+      },
+      "hu": {
+        "question": "Mi a számítógép legkisebb memóriaegysége?",
+        "correct_answer": "Bit",
+        "incorrect_answers": ["Byte", "Kilobyte", "Nibble"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": ["Macbeth", "Othello", "King Lear"]
+      },
+      "hu": {
+        "question": "Melyik Shakespeare-dráma szereplői Rosencrantz és Guildenstern?",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": ["Macbeth", "Othello", "Lear király"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the most populous city in the world?",
+        "correct_answer": "Tokyo",
+        "incorrect_answers": ["Shanghai", "Delhi", "New York"]
+      },
+      "hu": {
+        "question": "Melyik a világ legnépesebb városa?",
+        "correct_answer": "Tokió",
+        "incorrect_answers": ["Sanghaj", "Delhi", "New York"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who wrote the novel 'The Brothers Karamazov'?",
+        "correct_answer": "Fyodor Dostoevsky",
+        "incorrect_answers": ["Leo Tolstoy", "Anton Chekhov", "Ivan Turgenev"]
+      },
+      "hu": {
+        "question": "Ki írta a 'Karamazov testvérek' című regényt?",
+        "correct_answer": "Fjodor Dosztojevszkij",
+        "incorrect_answers": ["Lev Tolsztoj", "Anton Csehov", "Ivan Turgenyev"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which is the longest running musical on Broadway?",
+        "correct_answer": "The Phantom of the Opera",
+        "incorrect_answers": ["Cats", "Les Misérables", "Chicago"]
+      },
+      "hu": {
+        "question": "Melyik a leghosszabb ideig futó musical a Broadway-en?",
+        "correct_answer": "Az Operaház Fantomja",
+        "incorrect_answers": ["Macskák", "Nyomorultak", "Chicago"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the highest mountain in North America?",
+        "correct_answer": "Denali",
+        "incorrect_answers": ["Mount Logan", "Mount Rainier", "Mount Whitney"]
+      },
+      "hu": {
+        "question": "Mi Észak-Amerika legmagasabb hegye?",
+        "correct_answer": "Denali",
+        "incorrect_answers": ["Mount Logan", "Mount Rainier", "Mount Whitney"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "What is the capital of Bhutan?",
+        "correct_answer": "Thimphu",
+        "incorrect_answers": ["Kathmandu", "Dhaka", "Lhasa"]
+      },
+      "hu": {
+        "question": "Mi Bhután fővárosa?",
+        "correct_answer": "Thimphu",
+        "incorrect_answers": ["Katmandu", "Dhaka", "Lhásza"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which year was the United Nations founded?",
+        "correct_answer": "1945",
+        "incorrect_answers": ["1942", "1948", "1950"]
+      },
+      "hu": {
+        "question": "Melyik évben alapították az ENSZ-t?",
+        "correct_answer": "1945",
+        "incorrect_answers": ["1942", "1948", "1950"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which Nobel Prize did Albert Einstein win in 1921?",
+        "correct_answer": "Physics",
+        "incorrect_answers": ["Chemistry", "Peace", "Literature"]
+      },
+      "hu": {
+        "question": "Albert Einstein melyik Nobel-díjat nyerte el 1921-ben?",
+        "correct_answer": "Fizikai",
+        "incorrect_answers": ["Kémiai", "Béke", "Irodalmi"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Who was the last Emperor of China?",
+        "correct_answer": "Puyi",
+        "incorrect_answers": ["Yongzheng", "Qianlong", "Kangxi"]
+      },
+      "hu": {
+        "question": "Ki volt Kína utolsó császára?",
+        "correct_answer": "Puyi",
+        "incorrect_answers": ["Yongzheng", "Qianlong", "Kangxi"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "translations": {
+      "en": {
+        "question": "Which galaxy is closest to the Milky Way?",
+        "correct_answer": "Andromeda",
+        "incorrect_answers": [
+          "Triangulum",
+          "Large Magellanic Cloud",
+          "Small Magellanic Cloud"
+        ]
+      },
+      "hu": {
+        "question": "Melyik galaxis áll legközelebb a Tejútrendszerhez?",
+        "correct_answer": "Androméda",
+        "incorrect_answers": [
+          "Háromszög-galaxis",
+          "Nagy Magellán-felhő",
+          "Kis Magellán-felhő"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for water?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["O2", "CO2", "H2O2"]
+      },
+      "hu": {
+        "question": "Mi a víz kémiai jele?",
+        "correct_answer": "H2O",
+        "incorrect_answers": ["O2", "CO2", "H2O2"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+      },
+      "hu": {
+        "question": "Melyik bolygó ismert, mint a Vörös bolygó?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Vénusz", "Jupiter", "Szaturnusz"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the smallest unit of matter?",
+        "correct_answer": "Atom",
+        "incorrect_answers": ["Molecule", "Electron", "Proton"]
+      },
+      "hu": {
+        "question": "Mi a legkisebb egység, ami az anyagot alkotja?",
+        "correct_answer": "Atom",
+        "incorrect_answers": ["Molekula", "Elektron", "Proton"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What gas do plants absorb from the air during photosynthesis?",
+        "correct_answer": "Carbon dioxide",
+        "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+      },
+      "hu": {
+        "question": "Milyen gázt vesznek fel a növények a levegőből a fotoszintézis során?",
+        "correct_answer": "Szén-dioxid",
+        "incorrect_answers": ["Oxigén", "Nitrogén", "Hidrogén"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which planet is closest to the Sun?",
+        "correct_answer": "Mercury",
+        "incorrect_answers": ["Venus", "Earth", "Mars"]
+      },
+      "hu": {
+        "question": "Melyik bolygó a legközelebbi a Naphoz?",
+        "correct_answer": "Merkúr",
+        "incorrect_answers": ["Vénusz", "Föld", "Mars"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the main element in the Sun?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": ["Helium", "Oxygen", "Carbon"]
+      },
+      "hu": {
+        "question": "Mi a Nap fő eleme?",
+        "correct_answer": "Hidrogén",
+        "incorrect_answers": ["Hélium", "Oxigén", "Szén"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which planet has the most moons in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Saturn", "Earth", "Mars"]
+      },
+      "hu": {
+        "question": "Melyik bolygónak van a legtöbb holdja a Naprendszerben?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Szaturnusz", "Föld", "Mars"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the hardest natural substance on Earth?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": ["Gold", "Iron", "Platinum"]
+      },
+      "hu": {
+        "question": "Mi a Föld legkeményebb természetes anyaga?",
+        "correct_answer": "Gyémánt",
+        "incorrect_answers": ["Arany", "Vas", "Platina"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the process by which water changes from a liquid to a gas?",
+        "correct_answer": "Evaporation",
+        "incorrect_answers": ["Condensation", "Freezing", "Sublimation"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a folyamatnak, amikor a víz folyékony halmazállapotból gázzá változik?",
+        "correct_answer": "Párolgás",
+        "incorrect_answers": ["Kondenzáció", "Fagyás", "Sublimáció"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the largest planet in our solar system?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Saturn", "Earth", "Mars"]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb bolygó a Naprendszerünkben?",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": ["Szaturnusz", "Föld", "Mars"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which gas makes up about 78% of the Earth's atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": ["Oxygen", "Carbon dioxide", "Argon"]
+      },
+      "hu": {
+        "question": "Melyik gáz alkotja a Föld légkörének körülbelül 78%-át?",
+        "correct_answer": "Nitrogén",
+        "incorrect_answers": ["Oxigén", "Szén-dioxid", "Argon"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical formula for table salt?",
+        "correct_answer": "NaCl",
+        "incorrect_answers": ["H2O", "CO2", "HCl"]
+      },
+      "hu": {
+        "question": "Mi a konyhasó kémiai képlete?",
+        "correct_answer": "NaCl",
+        "incorrect_answers": ["H2O", "CO2", "HCl"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which natural resource is used to produce energy through nuclear fission?",
+        "correct_answer": "Uranium",
+        "incorrect_answers": ["Coal", "Oil", "Natural gas"]
+      },
+      "hu": {
+        "question": "Melyik természetes erőforrást használják energiatermelésre a maghasadás során?",
+        "correct_answer": "Uranium",
+        "incorrect_answers": ["Szén", "Olaj", "Földgáz"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for gold?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Fe", "Cu"]
+      },
+      "hu": {
+        "question": "Mi a kémiai jele az aranynak?",
+        "correct_answer": "Au",
+        "incorrect_answers": ["Ag", "Fe", "Cu"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the main source of energy for the Earth?",
+        "correct_answer": "The Sun",
+        "incorrect_answers": ["The Moon", "Volcanic activity", "Wind"]
+      },
+      "hu": {
+        "question": "Mi a Föld fő energiaforrása?",
+        "correct_answer": "A Nap",
+        "incorrect_answers": ["A Hold", "Vulkáni tevékenység", "Szél"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the unit of force in the International System of Units?",
+        "correct_answer": "Newton",
+        "incorrect_answers": ["Joule", "Pascal", "Watt"]
+      },
+      "hu": {
+        "question": "Mi az erő mértékegysége a Nemzetközi Mértékegység Rendszerében?",
+        "correct_answer": "Newton",
+        "incorrect_answers": ["Joule", "Pascal", "Watt"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What element does 'O' represent on the periodic table?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Osmium", "Ozone", "Oganesson"]
+      },
+      "hu": {
+        "question": "Mi az az elem, amit az 'O' szimbólum képvisel a periódusos rendszerben?",
+        "correct_answer": "Oxigén",
+        "incorrect_answers": ["Ozmium", "Ózon", "Oganesson"]
+      }
+    }
+  },
+  {
+    "difficulty": "easy",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Marie Curie"]
+      },
+      "hu": {
+        "question": "Melyik híres tudós dolgozta ki a relativitáselméletet?",
+        "correct_answer": "Albert Einstein",
+        "incorrect_answers": ["Isaac Newton", "Nikola Tesla", "Marie Curie"]
+      }
+    }
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the rarest naturally occurring element on Earth?",
+        "correct_answer": "Astatine",
+        "incorrect_answers": ["Francium", "Radon", "Osmium"]
+      },
+      "hu": {
+        "question": "Mi a legritkább természetes módon előforduló elem a Földön?",
+        "correct_answer": "Asztatin",
+        "incorrect_answers": ["Francium", "Radon", "Ozmium"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the name of the process by which a solid turns directly into a gas?",
+        "correct_answer": "Sublimation",
+        "incorrect_answers": ["Evaporation", "Condensation", "Deposition"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a folyamatnak, amikor egy szilárd anyag közvetlenül gázzá alakul?",
+        "correct_answer": "Szublimáció",
+        "incorrect_answers": ["Párolgás", "Kondenzáció", "Leülepedés"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What element is used in nuclear reactors to produce energy by fission?",
+        "correct_answer": "Uranium",
+        "incorrect_answers": ["Plutonium", "Thorium", "Radium"]
+      },
+      "hu": {
+        "question": "Melyik elemet használják a nukleáris reaktorokban energiatermeléshez hasadással?",
+        "correct_answer": "Urán",
+        "incorrect_answers": ["Plutónium", "Tórium", "Rádium"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the largest known star in the universe?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": ["VY Canis Majoris", "Betelgeuse", "Antares"]
+      },
+      "hu": {
+        "question": "Mi a legnagyobb ismert csillag az univerzumban?",
+        "correct_answer": "UY Scuti",
+        "incorrect_answers": ["VY Canis Majoris", "Betelgeuse", "Antares"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the most stable isotope of carbon?",
+        "correct_answer": "Carbon-12",
+        "incorrect_answers": ["Carbon-13", "Carbon-14", "Carbon-11"]
+      },
+      "hu": {
+        "question": "Mi a szén legstabilabb izotópja?",
+        "correct_answer": "Szén-12",
+        "incorrect_answers": ["Szén-13", "Szén-14", "Szén-11"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the chemical symbol for the element with atomic number 93?",
+        "correct_answer": "Np (Neptunium)",
+        "incorrect_answers": ["Pu (Plutonium)", "U (Uranium)", "Am (Americium)"]
+      },
+      "hu": {
+        "question": "Mi a kémiai jele a 93-as rendszámú elemnek?",
+        "correct_answer": "Np (Neptúnium)",
+        "incorrect_answers": ["Pu (Plutónium)", "U (Urán)", "Am (Amerícium)"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the only planet in the solar system that rotates clockwise?",
+        "correct_answer": "Venus",
+        "incorrect_answers": ["Mercury", "Mars", "Neptune"]
+      },
+      "hu": {
+        "question": "Mi az egyetlen bolygó a Naprendszerben, amely az óramutató járásával megegyezően forog?",
+        "correct_answer": "Vénusz",
+        "incorrect_answers": ["Merkúr", "Mars", "Neptunusz"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the name of the mathematical constant used in calculating the circumference of a circle?",
+        "correct_answer": "Pi (π)",
+        "incorrect_answers": ["Euler's number", "The Golden Ratio", "Phi"]
+      },
+      "hu": {
+        "question": "Mi a matematikai állandó neve, amelyet a kör kerületének kiszámításához használnak?",
+        "correct_answer": "Pi (π)",
+        "incorrect_answers": ["Euler szám", "Az arany arány", "Phi"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the rarest blood type in the world?",
+        "correct_answer": "Rh-null",
+        "incorrect_answers": ["AB negative", "O negative", "B positive"]
+      },
+      "hu": {
+        "question": "Mi a legritkább vércsoport a világon?",
+        "correct_answer": "Rh-null",
+        "incorrect_answers": ["AB negatív", "O negatív", "B pozitív"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the coldest natural temperature ever recorded on Earth?",
+        "correct_answer": "-89.2°C",
+        "incorrect_answers": ["-75.2°C", "-80.0°C", "-85.6°C"]
+      },
+      "hu": {
+        "question": "Mi a valaha mért leghidegebb természetes hőmérséklet a Földön?",
+        "correct_answer": "-89,2°C",
+        "incorrect_answers": ["-75,2°C", "-80,0°C", "-85,6°C"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the rarest naturally occurring isotope of uranium?",
+        "correct_answer": "Uranium-234",
+        "incorrect_answers": ["Uranium-235", "Uranium-238", "Uranium-233"]
+      },
+      "hu": {
+        "question": "Mi a legritkább természetesen előforduló urán izotóp?",
+        "correct_answer": "Urán-234",
+        "incorrect_answers": ["Urán-235", "Urán-238", "Urán-233"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the unit used to measure the frequency of a sound wave?",
+        "correct_answer": "Hertz",
+        "incorrect_answers": ["Decibel", "Joule", "Watt"]
+      },
+      "hu": {
+        "question": "Milyen mértékegységet használnak a hanghullámok frekvenciájának mérésére?",
+        "correct_answer": "Hertz",
+        "incorrect_answers": ["Decibel", "Joule", "Watt"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the process by which plants convert light energy into chemical energy?",
+        "correct_answer": "Photosynthesis",
+        "incorrect_answers": ["Respiration", "Transpiration", "Fermentation"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a folyamatnak, amely során a növények fényenergiát alakítanak kémiai energiává?",
+        "correct_answer": "Fotoszintézis",
+        "incorrect_answers": ["Légzés", "Transzpiráció", "Erjedés"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the term for a material that allows electricity to flow through it easily?",
+        "correct_answer": "Conductor",
+        "incorrect_answers": ["Insulator", "Semiconductor", "Resistor"]
+      },
+      "hu": {
+        "question": "Mi a neve annak az anyagnak, amely lehetővé teszi az áram szabad áramlását?",
+        "correct_answer": "Vezető",
+        "incorrect_answers": ["Szigetelő", "Félvezető", "Ellenállás"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the name of the phenomenon in which the light is bent as it passes through a material?",
+        "correct_answer": "Refraction",
+        "incorrect_answers": ["Reflection", "Diffraction", "Dispersion"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a jelenségnek, amikor a fény elhajlik, miközben áthalad egy anyagon?",
+        "correct_answer": "Törés",
+        "incorrect_answers": ["Visszaverődés", "Diffrakció", "Diszperzió"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "Which mineral is the hardest on the Mohs scale of hardness?",
+        "correct_answer": "Diamond",
+        "incorrect_answers": ["Topaz", "Corundum", "Quartz"]
+      },
+      "hu": {
+        "question": "Melyik ásvány a legkeményebb a Mohs keménységi skáláján?",
+        "correct_answer": "Gyémánt",
+        "incorrect_answers": ["Topáz", "Korund", "Kvarc"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the term for the process of cell division that results in two identical daughter cells?",
+        "correct_answer": "Mitosis",
+        "incorrect_answers": ["Meiosis", "Binary fission", "Budding"]
+      },
+      "hu": {
+        "question": "Mi a neve annak a sejtosztódásnak, amely két azonos leánysejtet eredményez?",
+        "correct_answer": "Mitosis",
+        "incorrect_answers": ["Meiosis", "Bináris hasadás", "Bimbózás"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Science & Nature",
+    "translations": {
+      "en": {
+        "question": "What is the strongest type of electromagnetic wave?",
+        "correct_answer": "Gamma rays",
+        "incorrect_answers": ["X-rays", "Radio waves", "Microwaves"]
+      },
+      "hu": {
+        "question": "Mi az elektromágneses hullámok legerősebb típusa?",
+        "correct_answer": "Gamma-sugarak",
+        "incorrect_answers": [
+          "Röntgensugarak",
+          "Rádióhullámok",
+          "Mikrohullámok"
+        ]
+      }
+    }
+  }
+]

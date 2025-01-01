@@ -1,0 +1,338 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who won the 1983 NBA Draft Lottery, but did not select the player they were expected to?",
+        "correct_answer": "Houston Rockets",
+        "incorrect_answers": [
+          "Chicago Bulls",
+          "Portland Trail Blazers",
+          "Dallas Mavericks"
+        ]
+      },
+      "hu": {
+        "question": "Ki nyerte az 1983-as NBA Draft Sorsolást, de nem azt a játékost választotta, akit vártak tőle?",
+        "correct_answer": "Houston Rockets",
+        "incorrect_answers": [
+          "Chicago Bulls",
+          "Portland Trail Blazers",
+          "Dallas Mavericks"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which football club was the first to win back-to-back European Cup titles?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["AC Milan", "Liverpool", "Bayern Munich"]
+      },
+      "hu": {
+        "question": "Melyik futballklub volt az első, amely megnyerte a Bajnokok Ligája címét két egymást követő évben?",
+        "correct_answer": "Real Madrid",
+        "incorrect_answers": ["AC Milan", "Liverpool", "Bayern Munich"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country has the most Olympic medals in the history of the Winter Olympics?",
+        "correct_answer": "Norway",
+        "incorrect_answers": ["Germany", "United States", "Russia"]
+      },
+      "hu": {
+        "question": "Melyik ország rendelkezik a legtöbb olimpiai érmet a téli olimpiák történetében?",
+        "correct_answer": "Norvégia",
+        "incorrect_answers": ["Németország", "Egyesült Államok", "Oroszország"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which player holds the record for most career goals in World Cup history?",
+        "correct_answer": "Marta",
+        "incorrect_answers": [
+          "Miroslav Klose",
+          "Cristiano Ronaldo",
+          "Lionel Messi"
+        ]
+      },
+      "hu": {
+        "question": "Melyik játékos tartja a legtöbb gólrekordot a világbajnoki történetben?",
+        "correct_answer": "Marta",
+        "incorrect_answers": [
+          "Miroslav Klose",
+          "Cristiano Ronaldo",
+          "Lionel Messi"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country hosted the 1956 Summer Olympics?",
+        "correct_answer": "Australia",
+        "incorrect_answers": ["United Kingdom", "France", "Italy"]
+      },
+      "hu": {
+        "question": "Melyik ország rendezte az 1956-os nyári olimpiát?",
+        "correct_answer": "Ausztrália",
+        "incorrect_answers": [
+          "Egyesült Királyság",
+          "Franciaország",
+          "Olaszország"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who was the first gymnast to score a perfect 10 in the Olympics?",
+        "correct_answer": "Nadia Comăneci",
+        "incorrect_answers": ["Mary Lou Retton", "Simone Biles", "Olga Korbut"]
+      },
+      "hu": {
+        "question": "Ki volt az első tornász, aki tökéletes 10-es pontot ért el az olimpián?",
+        "correct_answer": "Nadia Comăneci",
+        "incorrect_answers": ["Mary Lou Retton", "Simone Biles", "Olga Korbut"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country has won the most FIFA Women's World Cup titles?",
+        "correct_answer": "United States",
+        "incorrect_answers": ["Germany", "Brazil", "Norway"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a legtöbb FIFA Női Világbajnoki címet?",
+        "correct_answer": "Egyesült Államok",
+        "incorrect_answers": ["Németország", "Brazília", "Norvégia"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the 2003 Rugby World Cup?",
+        "correct_answer": "England",
+        "incorrect_answers": ["Australia", "South Africa", "New Zealand"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a 2003-as Rögbi Világbajnokságot?",
+        "correct_answer": "Anglia",
+        "incorrect_answers": ["Ausztrália", "Dél-Afrika", "Új-Zéland"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which tennis player has the most career Grand Slam singles titles in history?",
+        "correct_answer": "Margaret Court",
+        "incorrect_answers": ["Serena Williams", "Steffi Graf", "Chris Evert"]
+      },
+      "hu": {
+        "question": "Melyik teniszezőnek van a legtöbb Grand Slam egyéni címe a történelemben?",
+        "correct_answer": "Margaret Court",
+        "incorrect_answers": ["Serena Williams", "Steffi Graf", "Chris Evert"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who is the only player to have scored in every single World Cup he has played in?",
+        "correct_answer": "Miroslav Klose",
+        "incorrect_answers": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Ronaldo Nazário"
+        ]
+      },
+      "hu": {
+        "question": "Ki az egyetlen játékos, aki minden egyes világbajnokságon szerzett legalább egy gólt?",
+        "correct_answer": "Miroslav Klose",
+        "incorrect_answers": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Ronaldo Nazário"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country has hosted the most Summer Olympic Games?",
+        "correct_answer": "United States",
+        "incorrect_answers": ["United Kingdom", "Germany", "France"]
+      },
+      "hu": {
+        "question": "Melyik ország rendezte a legtöbb nyári olimpiai játékokat?",
+        "correct_answer": "Egyesült Államok",
+        "incorrect_answers": [
+          "Egyesült Királyság",
+          "Németország",
+          "Franciaország"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which athlete has won the most Olympic gold medals in history?",
+        "correct_answer": "Michael Phelps",
+        "incorrect_answers": ["Larisa Latynina", "Paavo Nurmi", "Mark Spitz"]
+      },
+      "hu": {
+        "question": "Melyik sportoló nyerte a legtöbb olimpiai aranyérmet a történelemben?",
+        "correct_answer": "Michael Phelps",
+        "incorrect_answers": ["Larisa Latynina", "Paavo Nurmi", "Mark Spitz"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who won the 1966 FIFA World Cup?",
+        "correct_answer": "England",
+        "incorrect_answers": ["Germany", "Brazil", "Argentina"]
+      },
+      "hu": {
+        "question": "Ki nyerte az 1966-os FIFA világbajnokságot?",
+        "correct_answer": "Anglia",
+        "incorrect_answers": ["Németország", "Brazília", "Argentína"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which Formula 1 driver won the 2008 World Championship?",
+        "correct_answer": "Lewis Hamilton",
+        "incorrect_answers": [
+          "Felipe Massa",
+          "Fernando Alonso",
+          "Kimi Räikkönen"
+        ]
+      },
+      "hu": {
+        "question": "Melyik Forma-1-es versenyző nyerte a 2008-as világbajnokságot?",
+        "correct_answer": "Lewis Hamilton",
+        "incorrect_answers": [
+          "Felipe Massa",
+          "Fernando Alonso",
+          "Kimi Räikkönen"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country won the 2014 Winter Olympics in Sochi?",
+        "correct_answer": "Russia",
+        "incorrect_answers": ["United States", "Germany", "Norway"]
+      },
+      "hu": {
+        "question": "Melyik ország nyerte a 2014-es téli olimpiát Szocsiban?",
+        "correct_answer": "Oroszország",
+        "incorrect_answers": ["Egyesült Államok", "Németország", "Norvégia"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which country was the first to win back-to-back World Cup titles?",
+        "correct_answer": "Italy",
+        "incorrect_answers": ["Brazil", "Germany", "Argentina"]
+      },
+      "hu": {
+        "question": "Melyik ország volt az első, amely megnyerte a két egymást követő világbajnoki címet?",
+        "correct_answer": "Olaszország",
+        "incorrect_answers": ["Brazília", "Németország", "Argentína"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Who won the 1957 World Series in baseball?",
+        "correct_answer": "Milwaukee Braves",
+        "incorrect_answers": [
+          "New York Yankees",
+          "Brooklyn Dodgers",
+          "St. Louis Cardinals"
+        ]
+      },
+      "hu": {
+        "question": "Ki nyerte az 1957-es Baseball Világbajnoki Sorozatot?",
+        "correct_answer": "Milwaukee Braves",
+        "incorrect_answers": [
+          "New York Yankees",
+          "Brooklyn Dodgers",
+          "St. Louis Cardinals"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Sports",
+    "translations": {
+      "en": {
+        "question": "Which basketball player holds the record for the most points in a single NBA game?",
+        "correct_answer": "Wilt Chamberlain",
+        "incorrect_answers": ["Kobe Bryant", "Michael Jordan", "LeBron James"]
+      },
+      "hu": {
+        "question": "Melyik kosárlabdázó tartja a legtöbb pont rekordját egyetlen NBA mérkőzésen?",
+        "correct_answer": "Wilt Chamberlain",
+        "incorrect_answers": ["Kobe Bryant", "Michael Jordan", "LeBron James"]
+      }
+    }
+  }
+]

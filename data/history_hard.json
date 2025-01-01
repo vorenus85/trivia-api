@@ -1,0 +1,295 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which ruler is credited with founding the first Persian Empire?",
+        "correct_answer": "Cyrus the Great",
+        "incorrect_answers": ["Darius the Great", "Xerxes", "Cambyses II"]
+      },
+      "hu": {
+        "question": "Melyik uralkodó alapította az első perzsa birodalmat?",
+        "correct_answer": "Nagy Kürosz",
+        "incorrect_answers": ["Nagy Dárius", "Xerxész", "Kambüszész II."]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which ancient civilization is considered to be the first to use writing?",
+        "correct_answer": "Sumerians",
+        "incorrect_answers": ["Babylonians", "Assyrians", "Ancient Egyptians"]
+      },
+      "hu": {
+        "question": "Melyik ókori civilizációt tartják az első olyan népnek, amely írást használt?",
+        "correct_answer": "Sumérok",
+        "incorrect_answers": ["Babiloniak", "Asszírok", "Ókori egyiptomiak"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which battle was fought in 732 AD and halted the Muslim expansion into Western Europe?",
+        "correct_answer": "The Battle of Poitiers",
+        "incorrect_answers": [
+          "The Battle of Lepanto",
+          "The Battle of Hattin",
+          "The Battle of Hastings"
+        ]
+      },
+      "hu": {
+        "question": "Melyik csata zajlott 732-ben, és megállította a muszlim hódítást Nyugat-Európában?",
+        "correct_answer": "A poitiers-i csata",
+        "incorrect_answers": [
+          "A lepantói csata",
+          "A poitiers-i csata",
+          "A hastings-i csata",
+          "A hattin-i csata"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the last ruler of the Aztec Empire before its conquest by the Spanish?",
+        "correct_answer": "Moctezuma II",
+        "incorrect_answers": ["Cuauhtémoc", "Ahuitzotl", "Itzcoatl"]
+      },
+      "hu": {
+        "question": "Ki volt az utolsó uralkodó az azték birodalomban a spanyol hódítás előtt?",
+        "correct_answer": "Moctezuma II.",
+        "incorrect_answers": ["Cuauhtémoc", "Ahuitzotl", "Itzcoatl"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the primary cause of the fall of the Western Roman Empire in 476 AD?",
+        "correct_answer": "Invasion by barbarian tribes",
+        "incorrect_answers": [
+          "Economic collapse",
+          "Internal corruption",
+          "Overexpansion"
+        ]
+      },
+      "hu": {
+        "question": "Mi volt a fő oka a Nyugat-Római Birodalom bukásának 476-ban?",
+        "correct_answer": "Barbár törzsek inváziója",
+        "incorrect_answers": [
+          "Gazdasági összeomlás",
+          "Belső korrupció",
+          "Túlzott terjeszkedés"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the leader of the Byzantine Empire at the time of its final fall in 1453?",
+        "correct_answer": "Constantine XI Palaiologos",
+        "incorrect_answers": ["Justinian I", "Heraclius", "Alexios I Komnenos"]
+      },
+      "hu": {
+        "question": "Ki volt a Bizánci Birodalom vezetője annak végső bukásakor 1453-ban?",
+        "correct_answer": "XI. Konstantin Palaiologos",
+        "incorrect_answers": [
+          "I. Justinianus",
+          "Herakliosz",
+          "I. Alexiosz Komnénosz"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What event triggered the start of the Thirty Years' War in 1618?",
+        "correct_answer": "The Defenestration of Prague",
+        "incorrect_answers": [
+          "The Battle of White Mountain",
+          "The assassination of King Gustavus Adolphus",
+          "The Peace of Westphalia"
+        ]
+      },
+      "hu": {
+        "question": "Mi váltotta ki a harmincéves háború kezdetét 1618-ban?",
+        "correct_answer": "A prágai defenesztráció",
+        "incorrect_answers": [
+          "A fehér hegyi csata",
+          "Gustavus Adolphus király meggyilkolása",
+          "A vesztfáliai béke"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which leader established the Mongol Yuan Dynasty in China?",
+        "correct_answer": "Kublai Khan",
+        "incorrect_answers": ["Genghis Khan", "Ogedei Khan", "Jebe"]
+      },
+      "hu": {
+        "question": "Melyik vezető alapította meg a mongol Jüan dinasztiát Kínában?",
+        "correct_answer": "Kubiláj kán",
+        "incorrect_answers": ["Dzsingisz kán", "Ogedei kán", "Jebe"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which ancient Egyptian queen was the last pharaoh of Egypt?",
+        "correct_answer": "Cleopatra VII",
+        "incorrect_answers": ["Nefertiti", "Hatshepsut", "Maatkare"]
+      },
+      "hu": {
+        "question": "Melyik ókori egyiptomi királynő volt Egyiptom utolsó fáraója?",
+        "correct_answer": "VII. Kleopátra",
+        "incorrect_answers": ["Nofertiti", "Hatszepszut", "Maatkare"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which war is considered the longest war in history?",
+        "correct_answer": "The Hundred Years' War",
+        "incorrect_answers": [
+          "The Napoleonic Wars",
+          "The Thirty Years' War",
+          "The Vietnam War"
+        ]
+      },
+      "hu": {
+        "question": "Melyik háborút tartják a történelem leghosszabb háborújának?",
+        "correct_answer": "A százéves háború",
+        "incorrect_answers": [
+          "A napóleoni háborúk",
+          "A harmincéves háború",
+          "A vietnami háború"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Who was the first emperor of Japan?",
+        "correct_answer": "Emperor Jimmu",
+        "incorrect_answers": [
+          "Emperor Akihito",
+          "Emperor Taisho",
+          "Emperor Showa"
+        ]
+      },
+      "hu": {
+        "question": "Ki volt Japán első császára?",
+        "correct_answer": "Jimmu császár",
+        "incorrect_answers": [
+          "Akihito császár",
+          "Taishō császár",
+          "Shōwa császár"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the capital city of the Inca Empire?",
+        "correct_answer": "Cusco",
+        "incorrect_answers": ["Machu Picchu", "Tiahuanaco", "Quito"]
+      },
+      "hu": {
+        "question": "Mi volt az Inka Birodalom fővárosa?",
+        "correct_answer": "Cuzco",
+        "incorrect_answers": ["Machu Picchu", "Tiahuanaco", "Quito"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which country was formerly known as the Kingdom of Siam?",
+        "correct_answer": "Thailand",
+        "incorrect_answers": ["Vietnam", "Cambodia", "Laos"]
+      },
+      "hu": {
+        "question": "Melyik országot hívták régen Sziámi Királyságnak?",
+        "correct_answer": "Thaiföld",
+        "incorrect_answers": ["Vietnam", "Kambodzsa", "Laosz"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "Which conflict was known as the 'War to End All Wars'?",
+        "correct_answer": "World War I",
+        "incorrect_answers": [
+          "World War II",
+          "The Korean War",
+          "The Falklands War"
+        ]
+      },
+      "hu": {
+        "question": "Melyik konfliktust hívták 'A háború, amely véget vet minden háborúnak'?",
+        "correct_answer": "Az első világháború",
+        "incorrect_answers": [
+          "A második világháború",
+          "A koreai háború",
+          "A Falklandi háború"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "History",
+    "translations": {
+      "en": {
+        "question": "What was the primary reason for the fall of the Aztec Empire?",
+        "correct_answer": "The Spanish conquest",
+        "incorrect_answers": ["Internal rebellion", "Disease", "Civil war"]
+      },
+      "hu": {
+        "question": "Mi volt az azték birodalom bukásának fő oka?",
+        "correct_answer": "A spanyol hódítás",
+        "incorrect_answers": ["Belső lázadás", "Betegségek", "Polgárháború"]
+      }
+    }
+  }
+]

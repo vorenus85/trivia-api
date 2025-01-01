@@ -1,0 +1,294 @@
+[
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "For which film role did Marlon Brando win an Oscar, which he declined?",
+        "correct_answer": "The Godfather",
+        "incorrect_answers": [
+          "A Streetcar Named Desire",
+          "On the Waterfront",
+          "Last Tango in Paris"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmszerepért nyert Oscar díjat Marlon Brando amit visszautasított?",
+        "correct_answer": "A keresztapa",
+        "incorrect_answers": [
+          "Tüntetett vágy",
+          "Parti riválisok",
+          "Utolsó tangó Párizsban"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film was the first to win 11 Academy Awards?",
+        "correct_answer": "Ben-Hur",
+        "incorrect_answers": [
+          "Titanic",
+          "The Lord of the Rings: The Return of the King",
+          "The English Patient"
+        ]
+      },
+      "hu": {
+        "question": "Melyik film volt az első, amely 11 Oscar-díjat nyert?",
+        "correct_answer": "Ben-Hur",
+        "incorrect_answers": [
+          "Titanic",
+          "A Gyűrűk Ura: A király visszatér",
+          "A angol beteg"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film features a character named Ahab hunting a giant white whale?",
+        "correct_answer": "Moby Dick",
+        "incorrect_answers": ["Jaws", "Whale Rider", "Free Willy"]
+      },
+      "hu": {
+        "question": "Melyik filmben szerepel egy Ahab nevű karakter, aki egy óriási fehér bálnát üldöz?",
+        "correct_answer": "Moby Dick",
+        "incorrect_answers": ["Cápa", "A bálna", "Free Willy"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who directed the film '2001: A Space Odyssey'?",
+        "correct_answer": "Stanley Kubrick",
+        "incorrect_answers": [
+          "Ridley Scott",
+          "George Lucas",
+          "Francis Ford Coppola"
+        ]
+      },
+      "hu": {
+        "question": "Ki rendezte a '2001: Űrodüsszeia' című filmet?",
+        "correct_answer": "Stanley Kubrick",
+        "incorrect_answers": [
+          "Ridley Scott",
+          "George Lucas",
+          "Francis Ford Coppola"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In the TV series 'The Twilight Zone,' which actor starred in the episode 'Nightmare at 20,000 Feet'?",
+        "correct_answer": "William Shatner",
+        "incorrect_answers": ["Rod Serling", "Jack Klugman", "Burgess Meredith"]
+      },
+      "hu": {
+        "question": "A 'Twilight Zone' című tévésorozatban melyik színész szerepelt a 'Nightmare at 20,000 Feet' epizódban?",
+        "correct_answer": "William Shatner",
+        "incorrect_answers": ["Rod Serling", "Jack Klugman", "Burgess Meredith"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What is the name of the fictional country in the movie 'Black Panther'?",
+        "correct_answer": "Wakanda",
+        "incorrect_answers": ["Latveria", "Genovia", "Elbonia"]
+      },
+      "hu": {
+        "question": "Mi a neve a fiktív országnak a 'Fekete Párduc' című filmben?",
+        "correct_answer": "Wakanda",
+        "incorrect_answers": ["Latveria", "Genovia", "Elbonia"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "In which 1994 film does the character Andy Dufresne escape from Shawshank prison?",
+        "correct_answer": "The Shawshank Redemption",
+        "incorrect_answers": [
+          "The Green Mile",
+          "A Few Good Men",
+          "The Godfather Part II"
+        ]
+      },
+      "hu": {
+        "question": "Melyik 1994-es filmben szökik meg Andy Dufresne a Shawshank börtönből?",
+        "correct_answer": "A remény rabjai",
+        "incorrect_answers": ["A zöld mérföld", "Jó emberek", "A keresztapa 2"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who composed the iconic score for 'Star Wars'?",
+        "correct_answer": "John Williams",
+        "incorrect_answers": ["Hans Zimmer", "Ennio Morricone", "James Horner"]
+      },
+      "hu": {
+        "question": "Ki komponálta a híres zenét a 'Star Wars'-hoz?",
+        "correct_answer": "John Williams",
+        "incorrect_answers": ["Hans Zimmer", "Ennio Morricone", "James Horner"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What 1995 film features a character named Edward Scissorhands?",
+        "correct_answer": "Edward Scissorhands",
+        "incorrect_answers": [
+          "Beetlejuice",
+          "Batman",
+          "Charlie and the Chocolate Factory"
+        ]
+      },
+      "hu": {
+        "question": "Melyik 1995-ös filmben szerepel Edward Scissorhands nevű karakter?",
+        "correct_answer": "Edward Scissorhands",
+        "incorrect_answers": [
+          "Beetlejuice",
+          "Batman",
+          "Charlie és a csokoládégyár"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What 1979 film is considered the first true science fiction horror movie?",
+        "correct_answer": "Alien",
+        "incorrect_answers": ["The Terminator", "The Thing", "Star Wars"]
+      },
+      "hu": {
+        "question": "Melyik 1979-es filmet tartják az első igazi sci-fi horror filmnek?",
+        "correct_answer": "Alien",
+        "incorrect_answers": ["A terminátor", "A dolog", "Star Wars"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film director is known for using non-linear storylines, like in 'Pulp Fiction'?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Christopher Nolan"
+        ]
+      },
+      "hu": {
+        "question": "Melyik filmrendezőről ismert, hogy nem lineáris történeteket használ, mint a 'Pulp Fiction' című filmben?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+          "Martin Scorsese",
+          "Steven Spielberg",
+          "Christopher Nolan"
+        ]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Who portrayed the Joker in 'The Dark Knight'?",
+        "correct_answer": "Heath Ledger",
+        "incorrect_answers": ["Jack Nicholson", "Jared Leto", "Joaquin Phoenix"]
+      },
+      "hu": {
+        "question": "Ki alakította a Jokert a 'A sötét lovag' című filmben?",
+        "correct_answer": "Heath Ledger",
+        "incorrect_answers": ["Jack Nicholson", "Jared Leto", "Joaquin Phoenix"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which 1976 film starred Robert De Niro as a troubled Vietnam War veteran?",
+        "correct_answer": "Taxi Driver",
+        "incorrect_answers": ["The Godfather", "Raging Bull", "Goodfellas"]
+      },
+      "hu": {
+        "question": "Melyik 1976-os filmben szerepelt Robert De Niro egy háború utáni vietnami veterán szerepében?",
+        "correct_answer": "Taxi Driver",
+        "incorrect_answers": ["A keresztapa", "Dühöngő bika", "Nagymenők"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "What 1982 film is considered the first successful cyberpunk film?",
+        "correct_answer": "Blade Runner",
+        "incorrect_answers": ["The Matrix", "Terminator", "A Scanner Darkly"]
+      },
+      "hu": {
+        "question": "Melyik 1982-es filmet tartják az első sikeres cyberpunk filmnek?",
+        "correct_answer": "Szárnyas fejvadász",
+        "incorrect_answers": ["Mátrix", "Terminátor", "Scanner Darkly"]
+      }
+    }
+  },
+  {
+    "difficulty": "hard",
+    "category": "Film & TV",
+    "translations": {
+      "en": {
+        "question": "Which film won the first-ever Academy Award for Best Animated Feature in 2002?",
+        "correct_answer": "Shrek",
+        "incorrect_answers": [
+          "Monsters, Inc.",
+          "Finding Nemo",
+          "The Incredibles"
+        ]
+      },
+      "hu": {
+        "question": "Melyik film nyerte az első Oscar-díjat a legjobb animációs film kategóriában 2002-ben?",
+        "correct_answer": "Shrek",
+        "incorrect_answers": [
+          "Szörnyek az inc-ben",
+          "Némó nyomában",
+          "A hihetetlen család"
+        ]
+      }
+    }
+  }
+]
