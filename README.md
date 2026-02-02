@@ -8,10 +8,6 @@ A fun and interactive trivia application that challenges your knowledge across m
 - **Multiple Difficulty Levels**: Choose from easy, medium, or hard questions.
 - **Real-time Scoring**: Receive immediate feedback on your answers.
 
-## Live Demo
-
-Experience the application live at: [https://trivia-api.onrender.com](https://trivia-api-s3lo.onrender.com/api/questions/en/)
-
 ## Installation
 
 1. **Clone the repository**:
@@ -50,3 +46,4 @@ The application will run at http://localhost:5000
 - Access the application in your browser at http://localhost:5000.
 - Select a category and difficulty level to start the quiz.
 - Answer the questions and receive immediate feedback.
+
